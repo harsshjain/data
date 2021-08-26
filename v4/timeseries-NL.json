@@ -10856,7 +10856,9 @@
           "confirmed": 81,
           "deceased": 1,
           "recovered": 81,
-          "tested": -1395
+          "tested": -1395,
+          "vaccinated1": 1617,
+          "vaccinated2": 1660
         },
         "delta7": {
           "confirmed": 591,
@@ -10864,8 +10866,8 @@
           "other": 21,
           "recovered": 582,
           "tested": 13075,
-          "vaccinated1": 8084,
-          "vaccinated2": 9546
+          "vaccinated1": 9701,
+          "vaccinated2": 11206
         },
         "total": {
           "confirmed": 29036,
@@ -10873,8 +10875,377 @@
           "other": 832,
           "recovered": 26264,
           "tested": 287111,
-          "vaccinated1": 637206,
-          "vaccinated2": 165937
+          "vaccinated1": 638823,
+          "vaccinated2": 167597
+        }
+      },
+      "2021-08-14": {
+        "delta": {
+          "confirmed": 61,
+          "deceased": 3,
+          "other": 2,
+          "recovered": 124,
+          "tested": 1386,
+          "vaccinated1": 556,
+          "vaccinated2": 343
+        },
+        "delta7": {
+          "confirmed": 546,
+          "deceased": 14,
+          "other": 21,
+          "recovered": 631,
+          "tested": 12742,
+          "vaccinated1": 9557,
+          "vaccinated2": 10960
+        },
+        "total": {
+          "confirmed": 29097,
+          "deceased": 597,
+          "other": 834,
+          "recovered": 26388,
+          "tested": 288497,
+          "vaccinated1": 639379,
+          "vaccinated2": 167940
+        }
+      },
+      "2021-08-15": {
+        "delta": {
+          "confirmed": 54,
+          "deceased": 4,
+          "other": 2,
+          "recovered": 102,
+          "tested": 1109,
+          "vaccinated1": 99,
+          "vaccinated2": 84
+        },
+        "delta7": {
+          "confirmed": 523,
+          "deceased": 16,
+          "other": 19,
+          "recovered": 644,
+          "tested": 12790,
+          "vaccinated1": 9219,
+          "vaccinated2": 10849
+        },
+        "total": {
+          "confirmed": 29151,
+          "deceased": 601,
+          "other": 836,
+          "recovered": 26490,
+          "tested": 289606,
+          "vaccinated1": 639478,
+          "vaccinated2": 168024
+        }
+      },
+      "2021-08-16": {
+        "delta": {
+          "confirmed": 44,
+          "deceased": 4,
+          "recovered": 111,
+          "tested": 1293,
+          "vaccinated1": 1446,
+          "vaccinated2": 2981
+        },
+        "delta7": {
+          "confirmed": 486,
+          "deceased": 20,
+          "other": 15,
+          "recovered": 695,
+          "tested": 12271,
+          "vaccinated1": 8795,
+          "vaccinated2": 11569
+        },
+        "total": {
+          "confirmed": 29195,
+          "deceased": 605,
+          "other": 836,
+          "recovered": 26601,
+          "tested": 290899,
+          "vaccinated1": 640924,
+          "vaccinated2": 171005
+        }
+      },
+      "2021-08-17": {
+        "delta": {
+          "confirmed": 79,
+          "deceased": 2,
+          "other": 5,
+          "recovered": 137,
+          "tested": 1527,
+          "vaccinated1": 1513,
+          "vaccinated2": 4035
+        },
+        "delta7": {
+          "confirmed": 463,
+          "deceased": 22,
+          "other": 12,
+          "recovered": 715,
+          "tested": 11649,
+          "vaccinated1": 7958,
+          "vaccinated2": 12419
+        },
+        "total": {
+          "confirmed": 29274,
+          "deceased": 607,
+          "other": 841,
+          "recovered": 26738,
+          "tested": 292426,
+          "vaccinated1": 642437,
+          "vaccinated2": 175040
+        }
+      },
+      "2021-08-18": {
+        "delta": {
+          "confirmed": 57,
+          "deceased": 1,
+          "recovered": 88,
+          "tested": 1697,
+          "vaccinated1": 1513,
+          "vaccinated2": 2157
+        },
+        "delta7": {
+          "confirmed": 456,
+          "deceased": 17,
+          "other": 9,
+          "recovered": 725,
+          "tested": 11077,
+          "vaccinated1": 7615,
+          "vaccinated2": 12562
+        },
+        "total": {
+          "confirmed": 29331,
+          "deceased": 608,
+          "other": 841,
+          "recovered": 26826,
+          "tested": 294123,
+          "vaccinated1": 643950,
+          "vaccinated2": 177197
+        }
+      },
+      "2021-08-19": {
+        "delta": {
+          "confirmed": 59,
+          "other": 2,
+          "recovered": 89,
+          "tested": 1808,
+          "vaccinated1": 644,
+          "vaccinated2": 1299
+        },
+        "delta7": {
+          "confirmed": 435,
+          "deceased": 15,
+          "other": 11,
+          "recovered": 732,
+          "tested": 7425,
+          "vaccinated1": 7388,
+          "vaccinated2": 12559
+        },
+        "total": {
+          "confirmed": 29390,
+          "deceased": 608,
+          "other": 843,
+          "recovered": 26915,
+          "tested": 295931,
+          "vaccinated1": 644594,
+          "vaccinated2": 178496
+        }
+      },
+      "2021-08-20": {
+        "delta": {
+          "confirmed": 92,
+          "deceased": 1,
+          "other": 7,
+          "recovered": 76,
+          "tested": 2233,
+          "vaccinated1": 1234,
+          "vaccinated2": 1220
+        },
+        "delta7": {
+          "confirmed": 446,
+          "deceased": 15,
+          "other": 18,
+          "recovered": 727,
+          "tested": 11053,
+          "vaccinated1": 7005,
+          "vaccinated2": 12119
+        },
+        "total": {
+          "confirmed": 29482,
+          "deceased": 609,
+          "other": 850,
+          "recovered": 26991,
+          "tested": 298164,
+          "vaccinated1": 645828,
+          "vaccinated2": 179716
+        }
+      },
+      "2021-08-21": {
+        "delta": {
+          "confirmed": 72,
+          "other": 2,
+          "recovered": 108,
+          "tested": 1834,
+          "vaccinated1": 362,
+          "vaccinated2": 543
+        },
+        "delta7": {
+          "confirmed": 457,
+          "deceased": 12,
+          "other": 18,
+          "recovered": 711,
+          "tested": 11501,
+          "vaccinated1": 6811,
+          "vaccinated2": 12319
+        },
+        "total": {
+          "confirmed": 29554,
+          "deceased": 609,
+          "other": 852,
+          "recovered": 27099,
+          "tested": 299998,
+          "vaccinated1": 646190,
+          "vaccinated2": 180259
+        }
+      },
+      "2021-08-22": {
+        "delta": {
+          "confirmed": 35,
+          "deceased": 1,
+          "other": 1,
+          "recovered": 52,
+          "tested": 1448,
+          "vaccinated1": 191,
+          "vaccinated2": 241
+        },
+        "delta7": {
+          "confirmed": 438,
+          "deceased": 9,
+          "other": 17,
+          "recovered": 661,
+          "tested": 11840,
+          "vaccinated1": 6903,
+          "vaccinated2": 12476
+        },
+        "total": {
+          "confirmed": 29589,
+          "deceased": 610,
+          "other": 853,
+          "recovered": 27151,
+          "tested": 301446,
+          "vaccinated1": 646381,
+          "vaccinated2": 180500
+        }
+      },
+      "2021-08-23": {
+        "delta": {
+          "confirmed": 33,
+          "other": 5,
+          "recovered": 87,
+          "tested": 2118,
+          "vaccinated1": 1217,
+          "vaccinated2": 3313
+        },
+        "delta7": {
+          "confirmed": 427,
+          "deceased": 5,
+          "other": 22,
+          "recovered": 637,
+          "tested": 12665,
+          "vaccinated1": 6674,
+          "vaccinated2": 12808
+        },
+        "total": {
+          "confirmed": 29622,
+          "deceased": 610,
+          "other": 858,
+          "recovered": 27238,
+          "tested": 303564,
+          "vaccinated1": 647598,
+          "vaccinated2": 183813
+        }
+      },
+      "2021-08-24": {
+        "delta": {
+          "confirmed": 47,
+          "deceased": 1,
+          "other": 1,
+          "recovered": 73,
+          "tested": 2435,
+          "vaccinated1": 1457,
+          "vaccinated2": 3450
+        },
+        "delta7": {
+          "confirmed": 395,
+          "deceased": 4,
+          "other": 18,
+          "recovered": 573,
+          "tested": 13573,
+          "vaccinated1": 6618,
+          "vaccinated2": 12223
+        },
+        "total": {
+          "confirmed": 29669,
+          "deceased": 611,
+          "other": 859,
+          "recovered": 27311,
+          "tested": 305999,
+          "vaccinated1": 649055,
+          "vaccinated2": 187263
+        }
+      },
+      "2021-08-25": {
+        "delta": {
+          "confirmed": 49,
+          "deceased": 1,
+          "other": 3,
+          "recovered": 62,
+          "tested": 2423,
+          "vaccinated1": 1152,
+          "vaccinated2": 2526
+        },
+        "delta7": {
+          "confirmed": 387,
+          "deceased": 4,
+          "other": 21,
+          "recovered": 547,
+          "tested": 14299,
+          "vaccinated1": 6257,
+          "vaccinated2": 12592
+        },
+        "total": {
+          "confirmed": 29718,
+          "deceased": 612,
+          "other": 862,
+          "recovered": 27373,
+          "tested": 308422,
+          "vaccinated1": 650207,
+          "vaccinated2": 189789
+        }
+      },
+      "2021-08-26": {
+        "delta": {
+          "confirmed": 60,
+          "other": 2,
+          "recovered": 84,
+          "tested": 2807941
+        },
+        "delta7": {
+          "confirmed": 388,
+          "deceased": 4,
+          "other": 21,
+          "recovered": 542,
+          "tested": 2820432,
+          "vaccinated1": 5613,
+          "vaccinated2": 11293
+        },
+        "total": {
+          "confirmed": 29778,
+          "deceased": 612,
+          "other": 864,
+          "recovered": 27457,
+          "tested": 3116363,
+          "vaccinated1": 650207,
+          "vaccinated2": 189789
         }
       }
     },
@@ -20010,6 +20381,344 @@
               "vaccinated1": 229616,
               "vaccinated2": 48603
             }
+          },
+          "2021-08-14": {
+            "delta": {
+              "confirmed": 34,
+              "deceased": 2,
+              "other": 1,
+              "recovered": 10,
+              "vaccinated1": 436,
+              "vaccinated2": 175
+            },
+            "delta7": {
+              "confirmed": 176,
+              "deceased": 6,
+              "other": 15,
+              "recovered": 153,
+              "vaccinated1": 5653,
+              "vaccinated2": 3696
+            },
+            "total": {
+              "confirmed": 13417,
+              "deceased": 366,
+              "other": 579,
+              "recovered": 12010,
+              "tested": 47020,
+              "vaccinated1": 230052,
+              "vaccinated2": 48778
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "confirmed": 16,
+              "deceased": 2,
+              "other": 1,
+              "recovered": 16
+            },
+            "delta7": {
+              "confirmed": 164,
+              "deceased": 8,
+              "other": 14,
+              "recovered": 140,
+              "vaccinated1": 5653,
+              "vaccinated2": 3696
+            },
+            "total": {
+              "confirmed": 13433,
+              "deceased": 368,
+              "other": 580,
+              "recovered": 12026,
+              "tested": 47020,
+              "vaccinated1": 230052,
+              "vaccinated2": 48778
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "confirmed": 11,
+              "deceased": 2,
+              "recovered": 31,
+              "vaccinated1": 752,
+              "vaccinated2": 634
+            },
+            "delta7": {
+              "confirmed": 158,
+              "deceased": 10,
+              "other": 10,
+              "recovered": 157,
+              "vaccinated1": 5437,
+              "vaccinated2": 3537
+            },
+            "total": {
+              "confirmed": 13444,
+              "deceased": 370,
+              "other": 580,
+              "recovered": 12057,
+              "tested": 47020,
+              "vaccinated1": 230804,
+              "vaccinated2": 49412
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "confirmed": 50,
+              "other": 4,
+              "recovered": 48,
+              "vaccinated1": 932,
+              "vaccinated2": 774
+            },
+            "delta7": {
+              "confirmed": 181,
+              "deceased": 10,
+              "other": 9,
+              "recovered": 148,
+              "vaccinated1": 4924,
+              "vaccinated2": 3421
+            },
+            "total": {
+              "confirmed": 13494,
+              "deceased": 370,
+              "other": 584,
+              "recovered": 12105,
+              "tested": 47020,
+              "vaccinated1": 231736,
+              "vaccinated2": 50186
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "confirmed": 22,
+              "deceased": 1,
+              "other": -1,
+              "recovered": 41,
+              "vaccinated1": 904,
+              "vaccinated2": 740
+            },
+            "delta7": {
+              "confirmed": 181,
+              "deceased": 9,
+              "other": 5,
+              "recovered": 173,
+              "vaccinated1": 4487,
+              "vaccinated2": 3349
+            },
+            "total": {
+              "confirmed": 13516,
+              "deceased": 371,
+              "other": 583,
+              "recovered": 12146,
+              "tested": 47020,
+              "vaccinated1": 232640,
+              "vaccinated2": 50926
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "confirmed": 13,
+              "other": 2,
+              "recovered": 32,
+              "vaccinated1": 354,
+              "vaccinated2": 460
+            },
+            "delta7": {
+              "confirmed": 165,
+              "deceased": 8,
+              "other": 7,
+              "recovered": 188,
+              "vaccinated1": 4376,
+              "vaccinated2": 3364
+            },
+            "total": {
+              "confirmed": 13529,
+              "deceased": 371,
+              "other": 585,
+              "recovered": 12178,
+              "tested": 47020,
+              "vaccinated1": 232994,
+              "vaccinated2": 51386
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "confirmed": 21,
+              "other": 4,
+              "recovered": 38,
+              "vaccinated1": 734,
+              "vaccinated2": 574
+            },
+            "delta7": {
+              "confirmed": 167,
+              "deceased": 7,
+              "other": 11,
+              "recovered": 216,
+              "vaccinated1": 4112,
+              "vaccinated2": 3357
+            },
+            "total": {
+              "confirmed": 13550,
+              "deceased": 371,
+              "other": 589,
+              "recovered": 12216,
+              "tested": 47020,
+              "vaccinated1": 233728,
+              "vaccinated2": 51960
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "confirmed": 25,
+              "other": 1,
+              "recovered": 33,
+              "vaccinated1": 127,
+              "vaccinated2": 311
+            },
+            "delta7": {
+              "confirmed": 158,
+              "deceased": 5,
+              "other": 11,
+              "recovered": 239,
+              "vaccinated1": 3803,
+              "vaccinated2": 3493
+            },
+            "total": {
+              "confirmed": 13575,
+              "deceased": 371,
+              "other": 590,
+              "recovered": 12249,
+              "tested": 47020,
+              "vaccinated1": 233855,
+              "vaccinated2": 52271
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "confirmed": 12,
+              "deceased": 1,
+              "other": 1,
+              "recovered": 26,
+              "vaccinated1": 74
+            },
+            "delta7": {
+              "confirmed": 154,
+              "deceased": 4,
+              "other": 11,
+              "recovered": 249,
+              "vaccinated1": 3877,
+              "vaccinated2": 3493
+            },
+            "total": {
+              "confirmed": 13587,
+              "deceased": 372,
+              "other": 591,
+              "recovered": 12275,
+              "tested": 47020,
+              "vaccinated1": 233929,
+              "vaccinated2": 52271
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "confirmed": 15,
+              "other": 3,
+              "recovered": 25,
+              "vaccinated1": 627,
+              "vaccinated2": 781
+            },
+            "delta7": {
+              "confirmed": 158,
+              "deceased": 2,
+              "other": 14,
+              "recovered": 243,
+              "vaccinated1": 3752,
+              "vaccinated2": 3640
+            },
+            "total": {
+              "confirmed": 13602,
+              "deceased": 372,
+              "other": 594,
+              "recovered": 12300,
+              "tested": 47020,
+              "vaccinated1": 234556,
+              "vaccinated2": 53052
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "confirmed": 18,
+              "deceased": 1,
+              "other": 1,
+              "recovered": 26,
+              "vaccinated1": 859,
+              "vaccinated2": 827
+            },
+            "delta7": {
+              "confirmed": 126,
+              "deceased": 3,
+              "other": 11,
+              "recovered": 221,
+              "vaccinated1": 3679,
+              "vaccinated2": 3693
+            },
+            "total": {
+              "confirmed": 13620,
+              "deceased": 373,
+              "other": 595,
+              "recovered": 12326,
+              "tested": 47020,
+              "vaccinated1": 235415,
+              "vaccinated2": 53879
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "confirmed": 24,
+              "other": 2,
+              "recovered": 37,
+              "vaccinated1": 678,
+              "vaccinated2": 1161
+            },
+            "delta7": {
+              "confirmed": 128,
+              "deceased": 2,
+              "other": 14,
+              "recovered": 217,
+              "vaccinated1": 3453,
+              "vaccinated2": 4114
+            },
+            "total": {
+              "confirmed": 13644,
+              "deceased": 373,
+              "other": 597,
+              "recovered": 12363,
+              "tested": 47020,
+              "vaccinated1": 236093,
+              "vaccinated2": 55040
+            }
+          },
+          "2021-08-26": {
+            "delta": {
+              "confirmed": 12,
+              "other": 1,
+              "recovered": 24
+            },
+            "delta7": {
+              "confirmed": 127,
+              "deceased": 2,
+              "other": 13,
+              "recovered": 209,
+              "vaccinated1": 3099,
+              "vaccinated2": 3654
+            },
+            "total": {
+              "confirmed": 13656,
+              "deceased": 373,
+              "other": 598,
+              "recovered": 12387,
+              "tested": 47020,
+              "vaccinated1": 236093,
+              "vaccinated2": 55040
+            }
           }
         }
       },
@@ -26222,6 +26931,283 @@
               "tested": 1002,
               "vaccinated1": 12238,
               "vaccinated2": 3550
+            }
+          },
+          "2021-08-14": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 8,
+              "vaccinated2": 2
+            },
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 5,
+              "vaccinated1": 64,
+              "vaccinated2": 113
+            },
+            "total": {
+              "confirmed": 231,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 205,
+              "tested": 1002,
+              "vaccinated1": 12246,
+              "vaccinated2": 3552
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "vaccinated1": 35,
+              "vaccinated2": 1
+            },
+            "delta7": {
+              "confirmed": 4,
+              "recovered": 5,
+              "vaccinated1": 99,
+              "vaccinated2": 114
+            },
+            "total": {
+              "confirmed": 231,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 205,
+              "tested": 1002,
+              "vaccinated1": 12281,
+              "vaccinated2": 3553
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "recovered": 1,
+              "vaccinated1": 9,
+              "vaccinated2": 100
+            },
+            "delta7": {
+              "confirmed": 3,
+              "recovered": 6,
+              "vaccinated1": 81,
+              "vaccinated2": 163
+            },
+            "total": {
+              "confirmed": 231,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 206,
+              "tested": 1002,
+              "vaccinated1": 12290,
+              "vaccinated2": 3653
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "recovered": 1,
+              "vaccinated1": 1,
+              "vaccinated2": 71
+            },
+            "delta7": {
+              "confirmed": 3,
+              "recovered": 7,
+              "vaccinated1": 76,
+              "vaccinated2": 210
+            },
+            "total": {
+              "confirmed": 231,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 207,
+              "tested": 1002,
+              "vaccinated1": 12291,
+              "vaccinated2": 3724
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 1,
+              "vaccinated1": 21,
+              "vaccinated2": 52
+            },
+            "delta7": {
+              "confirmed": 4,
+              "recovered": 3,
+              "vaccinated1": 95,
+              "vaccinated2": 252
+            },
+            "total": {
+              "confirmed": 232,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 208,
+              "tested": 1002,
+              "vaccinated1": 12312,
+              "vaccinated2": 3776
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "confirmed": 3,
+              "vaccinated1": 6,
+              "vaccinated2": 26
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 3,
+              "vaccinated1": 99,
+              "vaccinated2": 272
+            },
+            "total": {
+              "confirmed": 235,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 208,
+              "tested": 1002,
+              "vaccinated1": 12318,
+              "vaccinated2": 3802
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 2
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 5,
+              "vaccinated1": 80,
+              "vaccinated2": 252
+            },
+            "total": {
+              "confirmed": 236,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 210,
+              "tested": 1002,
+              "vaccinated1": 12318,
+              "vaccinated2": 3802
+            }
+          },
+          "2021-08-21": {
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 5,
+              "vaccinated1": 72,
+              "vaccinated2": 250
+            },
+            "total": {
+              "confirmed": 236,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 210,
+              "tested": 1002,
+              "vaccinated1": 12318,
+              "vaccinated2": 3802
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 12,
+              "vaccinated2": 21
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 5,
+              "vaccinated1": 49,
+              "vaccinated2": 270
+            },
+            "total": {
+              "confirmed": 237,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 210,
+              "tested": 1002,
+              "vaccinated1": 12330,
+              "vaccinated2": 3823
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "vaccinated1": 21,
+              "vaccinated2": 84
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 4,
+              "vaccinated1": 61,
+              "vaccinated2": 254
+            },
+            "total": {
+              "confirmed": 237,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 210,
+              "tested": 1002,
+              "vaccinated1": 12351,
+              "vaccinated2": 3907
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "recovered": 6,
+              "vaccinated1": 16,
+              "vaccinated2": 37
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 9,
+              "vaccinated1": 76,
+              "vaccinated2": 220
+            },
+            "total": {
+              "confirmed": 237,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 216,
+              "tested": 1002,
+              "vaccinated1": 12367,
+              "vaccinated2": 3944
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "recovered": 3,
+              "vaccinated1": 2,
+              "vaccinated2": 42
+            },
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 11,
+              "vaccinated1": 57,
+              "vaccinated2": 210
+            },
+            "total": {
+              "confirmed": 237,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 219,
+              "tested": 1002,
+              "vaccinated1": 12369,
+              "vaccinated2": 3986
+            }
+          },
+          "2021-08-26": {
+            "delta": {
+              "confirmed": 1
+            },
+            "delta7": {
+              "confirmed": 3,
+              "recovered": 11,
+              "vaccinated1": 51,
+              "vaccinated2": 184
+            },
+            "total": {
+              "confirmed": 238,
+              "deceased": 8,
+              "other": 1,
+              "recovered": 219,
+              "tested": 1002,
+              "vaccinated1": 12369,
+              "vaccinated2": 3986
             }
           }
         }
@@ -35193,6 +36179,335 @@
               "vaccinated1": 97306,
               "vaccinated2": 24972
             }
+          },
+          "2021-08-14": {
+            "delta": {
+              "confirmed": 11,
+              "deceased": 1,
+              "recovered": 29,
+              "vaccinated1": 17,
+              "vaccinated2": 51
+            },
+            "delta7": {
+              "confirmed": 130,
+              "deceased": 5,
+              "other": 4,
+              "recovered": 237,
+              "vaccinated1": 1064,
+              "vaccinated2": 1912
+            },
+            "total": {
+              "confirmed": 8808,
+              "deceased": 104,
+              "other": 144,
+              "recovered": 8267,
+              "tested": 33986,
+              "vaccinated1": 97323,
+              "vaccinated2": 25023
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "confirmed": 27,
+              "deceased": 2,
+              "recovered": 38
+            },
+            "delta7": {
+              "confirmed": 129,
+              "deceased": 7,
+              "other": 3,
+              "recovered": 238,
+              "vaccinated1": 1034,
+              "vaccinated2": 1911
+            },
+            "total": {
+              "confirmed": 8835,
+              "deceased": 106,
+              "other": 144,
+              "recovered": 8305,
+              "tested": 33986,
+              "vaccinated1": 97323,
+              "vaccinated2": 25023
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "confirmed": 14,
+              "deceased": 1,
+              "recovered": 21,
+              "vaccinated1": 133,
+              "vaccinated2": 496
+            },
+            "delta7": {
+              "confirmed": 132,
+              "deceased": 8,
+              "other": 3,
+              "recovered": 226,
+              "vaccinated1": 930,
+              "vaccinated2": 2068
+            },
+            "total": {
+              "confirmed": 8849,
+              "deceased": 107,
+              "other": 144,
+              "recovered": 8326,
+              "tested": 33986,
+              "vaccinated1": 97456,
+              "vaccinated2": 25519
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "confirmed": 11,
+              "deceased": 2,
+              "other": 1,
+              "recovered": 28,
+              "vaccinated1": 157,
+              "vaccinated2": 789
+            },
+            "delta7": {
+              "confirmed": 103,
+              "deceased": 10,
+              "other": 1,
+              "recovered": 219,
+              "vaccinated1": 934,
+              "vaccinated2": 2259
+            },
+            "total": {
+              "confirmed": 8860,
+              "deceased": 109,
+              "other": 145,
+              "recovered": 8354,
+              "tested": 33986,
+              "vaccinated1": 97613,
+              "vaccinated2": 26308
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "confirmed": 17,
+              "other": 1,
+              "recovered": 19,
+              "vaccinated1": 129,
+              "vaccinated2": 395
+            },
+            "delta7": {
+              "confirmed": 112,
+              "deceased": 7,
+              "other": 2,
+              "recovered": 206,
+              "vaccinated1": 736,
+              "vaccinated2": 2284
+            },
+            "total": {
+              "confirmed": 8877,
+              "deceased": 109,
+              "other": 146,
+              "recovered": 8373,
+              "tested": 33986,
+              "vaccinated1": 97742,
+              "vaccinated2": 26703
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "confirmed": 18,
+              "recovered": 16,
+              "vaccinated1": 107,
+              "vaccinated2": 289
+            },
+            "delta7": {
+              "confirmed": 109,
+              "deceased": 6,
+              "other": 2,
+              "recovered": 185,
+              "vaccinated1": 695,
+              "vaccinated2": 2259
+            },
+            "total": {
+              "confirmed": 8895,
+              "deceased": 109,
+              "other": 146,
+              "recovered": 8389,
+              "tested": 33986,
+              "vaccinated1": 97849,
+              "vaccinated2": 26992
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "confirmed": 39,
+              "deceased": 1,
+              "other": 3,
+              "recovered": 23,
+              "vaccinated1": 111,
+              "vaccinated2": 172
+            },
+            "delta7": {
+              "confirmed": 137,
+              "deceased": 7,
+              "other": 5,
+              "recovered": 174,
+              "vaccinated1": 654,
+              "vaccinated2": 2192
+            },
+            "total": {
+              "confirmed": 8934,
+              "deceased": 110,
+              "other": 149,
+              "recovered": 8412,
+              "tested": 33986,
+              "vaccinated1": 97960,
+              "vaccinated2": 27164
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "confirmed": 34,
+              "other": 1,
+              "recovered": 36,
+              "vaccinated1": 25,
+              "vaccinated2": 9
+            },
+            "delta7": {
+              "confirmed": 160,
+              "deceased": 6,
+              "other": 6,
+              "recovered": 181,
+              "vaccinated1": 662,
+              "vaccinated2": 2150
+            },
+            "total": {
+              "confirmed": 8968,
+              "deceased": 110,
+              "other": 150,
+              "recovered": 8448,
+              "tested": 33986,
+              "vaccinated1": 97985,
+              "vaccinated2": 27173
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "confirmed": 10,
+              "recovered": 12
+            },
+            "delta7": {
+              "confirmed": 143,
+              "deceased": 4,
+              "other": 6,
+              "recovered": 155,
+              "vaccinated1": 662,
+              "vaccinated2": 2150
+            },
+            "total": {
+              "confirmed": 8978,
+              "deceased": 110,
+              "other": 150,
+              "recovered": 8460,
+              "tested": 33986,
+              "vaccinated1": 97985,
+              "vaccinated2": 27173
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "confirmed": 2,
+              "recovered": 23,
+              "vaccinated1": 133,
+              "vaccinated2": 451
+            },
+            "delta7": {
+              "confirmed": 131,
+              "deceased": 3,
+              "other": 6,
+              "recovered": 157,
+              "vaccinated1": 662,
+              "vaccinated2": 2105
+            },
+            "total": {
+              "confirmed": 8980,
+              "deceased": 110,
+              "other": 150,
+              "recovered": 8483,
+              "tested": 33986,
+              "vaccinated1": 98118,
+              "vaccinated2": 27624
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "confirmed": 13,
+              "recovered": 19,
+              "vaccinated1": 161,
+              "vaccinated2": 785
+            },
+            "delta7": {
+              "confirmed": 133,
+              "deceased": 1,
+              "other": 5,
+              "recovered": 148,
+              "vaccinated1": 666,
+              "vaccinated2": 2101
+            },
+            "total": {
+              "confirmed": 8993,
+              "deceased": 110,
+              "other": 150,
+              "recovered": 8502,
+              "tested": 33986,
+              "vaccinated1": 98279,
+              "vaccinated2": 28409
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "confirmed": 9,
+              "other": 1,
+              "recovered": 12,
+              "vaccinated1": 226,
+              "vaccinated2": 439
+            },
+            "delta7": {
+              "confirmed": 125,
+              "deceased": 1,
+              "other": 5,
+              "recovered": 141,
+              "vaccinated1": 763,
+              "vaccinated2": 2145
+            },
+            "total": {
+              "confirmed": 9002,
+              "deceased": 110,
+              "other": 151,
+              "recovered": 8514,
+              "tested": 33986,
+              "vaccinated1": 98505,
+              "vaccinated2": 28848
+            }
+          },
+          "2021-08-26": {
+            "delta": {
+              "confirmed": 10,
+              "recovered": 35
+            },
+            "delta7": {
+              "confirmed": 117,
+              "deceased": 1,
+              "other": 5,
+              "recovered": 160,
+              "vaccinated1": 656,
+              "vaccinated2": 1856
+            },
+            "total": {
+              "confirmed": 9012,
+              "deceased": 110,
+              "other": 151,
+              "recovered": 8549,
+              "tested": 33986,
+              "vaccinated1": 98505,
+              "vaccinated2": 28848
+            }
           }
         }
       },
@@ -41187,6 +42502,278 @@
               "tested": 1193,
               "vaccinated1": 19802,
               "vaccinated2": 6045
+            }
+          },
+          "2021-08-14": {
+            "delta": {
+              "recovered": 7
+            },
+            "delta7": {
+              "confirmed": 17,
+              "recovered": 23,
+              "vaccinated1": 189,
+              "vaccinated2": 459
+            },
+            "total": {
+              "confirmed": 270,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 227,
+              "tested": 1193,
+              "vaccinated1": 19802,
+              "vaccinated2": 6045
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "recovered": 2,
+              "vaccinated1": 14,
+              "vaccinated2": 5
+            },
+            "delta7": {
+              "confirmed": 17,
+              "recovered": 23,
+              "vaccinated1": 184,
+              "vaccinated2": 458
+            },
+            "total": {
+              "confirmed": 270,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 229,
+              "tested": 1193,
+              "vaccinated1": 19816,
+              "vaccinated2": 6050
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 9,
+              "vaccinated1": 37,
+              "vaccinated2": 251
+            },
+            "delta7": {
+              "confirmed": 18,
+              "recovered": 32,
+              "vaccinated1": 167,
+              "vaccinated2": 659
+            },
+            "total": {
+              "confirmed": 271,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 238,
+              "tested": 1193,
+              "vaccinated1": 19853,
+              "vaccinated2": 6301
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 24,
+              "vaccinated2": 328
+            },
+            "delta7": {
+              "confirmed": 15,
+              "recovered": 32,
+              "vaccinated1": 107,
+              "vaccinated2": 688
+            },
+            "total": {
+              "confirmed": 272,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 238,
+              "tested": 1193,
+              "vaccinated1": 19877,
+              "vaccinated2": 6629
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "confirmed": 3,
+              "vaccinated1": 30,
+              "vaccinated2": 126
+            },
+            "delta7": {
+              "confirmed": 13,
+              "recovered": 29,
+              "vaccinated1": 110,
+              "vaccinated2": 770
+            },
+            "total": {
+              "confirmed": 275,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 238,
+              "tested": 1193,
+              "vaccinated1": 19907,
+              "vaccinated2": 6755
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "recovered": 6,
+              "vaccinated1": 2,
+              "vaccinated2": 32
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 34,
+              "vaccinated1": 108,
+              "vaccinated2": 761
+            },
+            "total": {
+              "confirmed": 275,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 244,
+              "tested": 1193,
+              "vaccinated1": 19909,
+              "vaccinated2": 6787
+            }
+          },
+          "2021-08-20": {
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 24,
+              "vaccinated1": 107,
+              "vaccinated2": 742
+            },
+            "total": {
+              "confirmed": 275,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 244,
+              "tested": 1193,
+              "vaccinated1": 19909,
+              "vaccinated2": 6787
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "recovered": 7
+            },
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 24,
+              "vaccinated1": 107,
+              "vaccinated2": 742
+            },
+            "total": {
+              "confirmed": 275,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 251,
+              "tested": 1193,
+              "vaccinated1": 19909,
+              "vaccinated2": 6787
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "recovered": 4
+            },
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 26,
+              "vaccinated1": 93,
+              "vaccinated2": 737
+            },
+            "total": {
+              "confirmed": 275,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 255,
+              "tested": 1193,
+              "vaccinated1": 19909,
+              "vaccinated2": 6787
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "vaccinated1": 27,
+              "vaccinated2": 268
+            },
+            "delta7": {
+              "confirmed": 4,
+              "recovered": 17,
+              "vaccinated1": 83,
+              "vaccinated2": 754
+            },
+            "total": {
+              "confirmed": 275,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 255,
+              "tested": 1193,
+              "vaccinated1": 19936,
+              "vaccinated2": 7055
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "vaccinated1": 5,
+              "vaccinated2": 81
+            },
+            "delta7": {
+              "confirmed": 3,
+              "recovered": 17,
+              "vaccinated1": 64,
+              "vaccinated2": 507
+            },
+            "total": {
+              "confirmed": 275,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 255,
+              "tested": 1193,
+              "vaccinated1": 19941,
+              "vaccinated2": 7136
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "confirmed": 2,
+              "vaccinated1": 2,
+              "vaccinated2": 36
+            },
+            "delta7": {
+              "confirmed": 2,
+              "recovered": 17,
+              "vaccinated1": 36,
+              "vaccinated2": 417
+            },
+            "total": {
+              "confirmed": 277,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 255,
+              "tested": 1193,
+              "vaccinated1": 19943,
+              "vaccinated2": 7172
+            }
+          },
+          "2021-08-26": {
+            "delta": {
+              "confirmed": 3
+            },
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 11,
+              "vaccinated1": 34,
+              "vaccinated2": 385
+            },
+            "total": {
+              "confirmed": 280,
+              "deceased": 2,
+              "other": 12,
+              "recovered": 255,
+              "tested": 1193,
+              "vaccinated1": 19943,
+              "vaccinated2": 7172
             }
           }
         }
@@ -48770,6 +50357,318 @@
               "tested": 3976,
               "vaccinated1": 65185,
               "vaccinated2": 21716
+            }
+          },
+          "2021-08-14": {
+            "delta": {
+              "confirmed": 11,
+              "recovered": 30,
+              "vaccinated1": 28,
+              "vaccinated2": 14
+            },
+            "delta7": {
+              "confirmed": 109,
+              "deceased": 2,
+              "other": 1,
+              "recovered": 101,
+              "vaccinated1": 574,
+              "vaccinated2": 1264
+            },
+            "total": {
+              "confirmed": 2003,
+              "deceased": 48,
+              "other": 49,
+              "recovered": 1686,
+              "tested": 3976,
+              "vaccinated1": 65213,
+              "vaccinated2": 21730
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "confirmed": 4,
+              "recovered": 6,
+              "vaccinated1": 3,
+              "vaccinated2": 1
+            },
+            "delta7": {
+              "confirmed": 104,
+              "recovered": 98,
+              "vaccinated1": 572,
+              "vaccinated2": 1262
+            },
+            "total": {
+              "confirmed": 2007,
+              "deceased": 48,
+              "other": 49,
+              "recovered": 1692,
+              "tested": 3976,
+              "vaccinated1": 65216,
+              "vaccinated2": 21731
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "confirmed": 15,
+              "deceased": 1,
+              "recovered": 8,
+              "vaccinated1": 70,
+              "vaccinated2": 347
+            },
+            "delta7": {
+              "confirmed": 102,
+              "deceased": 1,
+              "recovered": 97,
+              "vaccinated1": 496,
+              "vaccinated2": 1313
+            },
+            "total": {
+              "confirmed": 2022,
+              "deceased": 49,
+              "other": 49,
+              "recovered": 1700,
+              "tested": 3976,
+              "vaccinated1": 65286,
+              "vaccinated2": 22078
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "confirmed": 15,
+              "recovered": 14,
+              "vaccinated1": 113,
+              "vaccinated2": 403
+            },
+            "delta7": {
+              "confirmed": 102,
+              "deceased": 1,
+              "recovered": 100,
+              "vaccinated1": 469,
+              "vaccinated2": 1399
+            },
+            "total": {
+              "confirmed": 2037,
+              "deceased": 49,
+              "other": 49,
+              "recovered": 1714,
+              "tested": 3976,
+              "vaccinated1": 65399,
+              "vaccinated2": 22481
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "confirmed": 7,
+              "recovered": 8,
+              "vaccinated1": 87,
+              "vaccinated2": 241
+            },
+            "delta7": {
+              "confirmed": 94,
+              "deceased": 1,
+              "recovered": 95,
+              "vaccinated1": 494,
+              "vaccinated2": 1391
+            },
+            "total": {
+              "confirmed": 2044,
+              "deceased": 49,
+              "other": 49,
+              "recovered": 1722,
+              "tested": 3976,
+              "vaccinated1": 65486,
+              "vaccinated2": 22722
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "confirmed": 19,
+              "recovered": 26,
+              "vaccinated1": 74,
+              "vaccinated2": 204
+            },
+            "delta7": {
+              "confirmed": 95,
+              "deceased": 1,
+              "recovered": 101,
+              "vaccinated1": 461,
+              "vaccinated2": 1323
+            },
+            "total": {
+              "confirmed": 2063,
+              "deceased": 49,
+              "other": 49,
+              "recovered": 1748,
+              "tested": 3976,
+              "vaccinated1": 65560,
+              "vaccinated2": 22926
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "confirmed": 20,
+              "recovered": 9,
+              "vaccinated1": 55,
+              "vaccinated2": 123
+            },
+            "delta7": {
+              "confirmed": 91,
+              "deceased": 1,
+              "recovered": 101,
+              "vaccinated1": 430,
+              "vaccinated2": 1333
+            },
+            "total": {
+              "confirmed": 2083,
+              "deceased": 49,
+              "other": 49,
+              "recovered": 1757,
+              "tested": 3976,
+              "vaccinated1": 65615,
+              "vaccinated2": 23049
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "confirmed": 6,
+              "recovered": 15,
+              "vaccinated1": 6,
+              "vaccinated2": 10
+            },
+            "delta7": {
+              "confirmed": 86,
+              "deceased": 1,
+              "recovered": 86,
+              "vaccinated1": 408,
+              "vaccinated2": 1329
+            },
+            "total": {
+              "confirmed": 2089,
+              "deceased": 49,
+              "other": 49,
+              "recovered": 1772,
+              "tested": 3976,
+              "vaccinated1": 65621,
+              "vaccinated2": 23059
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "confirmed": 10,
+              "recovered": 8,
+              "vaccinated1": 33
+            },
+            "delta7": {
+              "confirmed": 92,
+              "deceased": 1,
+              "recovered": 88,
+              "vaccinated1": 438,
+              "vaccinated2": 1328
+            },
+            "total": {
+              "confirmed": 2099,
+              "deceased": 49,
+              "other": 49,
+              "recovered": 1780,
+              "tested": 3976,
+              "vaccinated1": 65654,
+              "vaccinated2": 23059
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "confirmed": 8,
+              "other": 2,
+              "recovered": 12,
+              "vaccinated1": 42,
+              "vaccinated2": 269
+            },
+            "delta7": {
+              "confirmed": 85,
+              "other": 2,
+              "recovered": 92,
+              "vaccinated1": 410,
+              "vaccinated2": 1250
+            },
+            "total": {
+              "confirmed": 2107,
+              "deceased": 49,
+              "other": 51,
+              "recovered": 1792,
+              "tested": 3976,
+              "vaccinated1": 65696,
+              "vaccinated2": 23328
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "confirmed": 11,
+              "recovered": 12,
+              "vaccinated1": 79,
+              "vaccinated2": 432
+            },
+            "delta7": {
+              "confirmed": 81,
+              "other": 2,
+              "recovered": 90,
+              "vaccinated1": 376,
+              "vaccinated2": 1279
+            },
+            "total": {
+              "confirmed": 2118,
+              "deceased": 49,
+              "other": 51,
+              "recovered": 1804,
+              "tested": 3976,
+              "vaccinated1": 65775,
+              "vaccinated2": 23760
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "confirmed": 11,
+              "recovered": 5,
+              "vaccinated1": 34,
+              "vaccinated2": 203
+            },
+            "delta7": {
+              "confirmed": 85,
+              "other": 2,
+              "recovered": 87,
+              "vaccinated1": 323,
+              "vaccinated2": 1241
+            },
+            "total": {
+              "confirmed": 2129,
+              "deceased": 49,
+              "other": 51,
+              "recovered": 1809,
+              "tested": 3976,
+              "vaccinated1": 65809,
+              "vaccinated2": 23963
+            }
+          },
+          "2021-08-26": {
+            "delta": {
+              "confirmed": 10,
+              "other": 1,
+              "recovered": 20
+            },
+            "delta7": {
+              "confirmed": 76,
+              "other": 3,
+              "recovered": 81,
+              "vaccinated1": 249,
+              "vaccinated2": 1037
+            },
+            "total": {
+              "confirmed": 2139,
+              "deceased": 49,
+              "other": 52,
+              "recovered": 1829,
+              "tested": 3976,
+              "vaccinated1": 65809,
+              "vaccinated2": 23963
             }
           }
         }
@@ -56390,6 +58289,292 @@
               "tested": 12278,
               "vaccinated1": 64706,
               "vaccinated2": 18142
+            }
+          },
+          "2021-08-14": {
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 9,
+              "vaccinated1": 895,
+              "vaccinated2": 1244
+            },
+            "total": {
+              "confirmed": 1099,
+              "deceased": 13,
+              "other": 16,
+              "recovered": 1047,
+              "tested": 12278,
+              "vaccinated1": 64706,
+              "vaccinated2": 18142
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "confirmed": 3,
+              "other": 1,
+              "recovered": 5
+            },
+            "delta7": {
+              "confirmed": 8,
+              "other": 1,
+              "recovered": 14,
+              "vaccinated1": 649,
+              "vaccinated2": 1143
+            },
+            "total": {
+              "confirmed": 1102,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1052,
+              "tested": 12278,
+              "vaccinated1": 64706,
+              "vaccinated2": 18142
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 1,
+              "vaccinated1": 261,
+              "vaccinated2": 452
+            },
+            "delta7": {
+              "confirmed": 9,
+              "other": 1,
+              "recovered": 15,
+              "vaccinated1": 747,
+              "vaccinated2": 1440
+            },
+            "total": {
+              "confirmed": 1103,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1053,
+              "tested": 12278,
+              "vaccinated1": 64967,
+              "vaccinated2": 18594
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "recovered": 1,
+              "vaccinated1": 49,
+              "vaccinated2": 516
+            },
+            "delta7": {
+              "confirmed": 9,
+              "other": 1,
+              "recovered": 14,
+              "vaccinated1": 707,
+              "vaccinated2": 1587
+            },
+            "total": {
+              "confirmed": 1103,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1054,
+              "tested": 12278,
+              "vaccinated1": 65016,
+              "vaccinated2": 19110
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "vaccinated1": 224,
+              "vaccinated2": 168
+            },
+            "delta7": {
+              "confirmed": 5,
+              "other": 1,
+              "recovered": 8,
+              "vaccinated1": 886,
+              "vaccinated2": 1670
+            },
+            "total": {
+              "confirmed": 1103,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1054,
+              "tested": 12278,
+              "vaccinated1": 65240,
+              "vaccinated2": 19278
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 42,
+              "vaccinated2": 69
+            },
+            "delta7": {
+              "confirmed": 6,
+              "other": 1,
+              "recovered": 7,
+              "vaccinated1": 805,
+              "vaccinated2": 1502
+            },
+            "total": {
+              "confirmed": 1104,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1054,
+              "tested": 12278,
+              "vaccinated1": 65282,
+              "vaccinated2": 19347
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "confirmed": 2,
+              "vaccinated1": 43,
+              "vaccinated2": 43
+            },
+            "delta7": {
+              "confirmed": 7,
+              "other": 1,
+              "recovered": 7,
+              "vaccinated1": 619,
+              "vaccinated2": 1248
+            },
+            "total": {
+              "confirmed": 1106,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1054,
+              "tested": 12278,
+              "vaccinated1": 65325,
+              "vaccinated2": 19390
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "vaccinated1": 110,
+              "vaccinated2": 104
+            },
+            "delta7": {
+              "confirmed": 7,
+              "other": 1,
+              "recovered": 7,
+              "vaccinated1": 729,
+              "vaccinated2": 1352
+            },
+            "total": {
+              "confirmed": 1106,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1054,
+              "tested": 12278,
+              "vaccinated1": 65435,
+              "vaccinated2": 19494
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 44,
+              "vaccinated2": 30
+            },
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 2,
+              "vaccinated1": 773,
+              "vaccinated2": 1382
+            },
+            "total": {
+              "confirmed": 1107,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1054,
+              "tested": 12278,
+              "vaccinated1": 65479,
+              "vaccinated2": 19524
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "vaccinated1": 149,
+              "vaccinated2": 472
+            },
+            "delta7": {
+              "confirmed": 4,
+              "recovered": 1,
+              "vaccinated1": 661,
+              "vaccinated2": 1402
+            },
+            "total": {
+              "confirmed": 1107,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1054,
+              "tested": 12278,
+              "vaccinated1": 65628,
+              "vaccinated2": 19996
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 3,
+              "vaccinated1": 104,
+              "vaccinated2": 498
+            },
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 3,
+              "vaccinated1": 716,
+              "vaccinated2": 1384
+            },
+            "total": {
+              "confirmed": 1108,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1057,
+              "tested": 12278,
+              "vaccinated1": 65732,
+              "vaccinated2": 20494
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 5,
+              "vaccinated1": 24,
+              "vaccinated2": 113
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 8,
+              "vaccinated1": 516,
+              "vaccinated2": 1329
+            },
+            "total": {
+              "confirmed": 1109,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1062,
+              "tested": 12278,
+              "vaccinated1": 65756,
+              "vaccinated2": 20607
+            }
+          },
+          "2021-08-26": {
+            "delta": {
+              "confirmed": 4
+            },
+            "delta7": {
+              "confirmed": 9,
+              "recovered": 8,
+              "vaccinated1": 474,
+              "vaccinated2": 1260
+            },
+            "total": {
+              "confirmed": 1113,
+              "deceased": 13,
+              "other": 17,
+              "recovered": 1062,
+              "tested": 12278,
+              "vaccinated1": 65756,
+              "vaccinated2": 20607
             }
           }
         }
@@ -64295,6 +66480,299 @@
               "vaccinated1": 17490,
               "vaccinated2": 5588
             }
+          },
+          "2021-08-14": {
+            "delta": {
+              "confirmed": 2,
+              "recovered": 4,
+              "vaccinated1": 7,
+              "vaccinated2": 9
+            },
+            "delta7": {
+              "confirmed": 18,
+              "recovered": 26,
+              "vaccinated1": 224,
+              "vaccinated2": 539
+            },
+            "total": {
+              "confirmed": 883,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 795,
+              "tested": 5717,
+              "vaccinated1": 17497,
+              "vaccinated2": 5597
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "recovered": 33
+            },
+            "delta7": {
+              "confirmed": 18,
+              "recovered": 59,
+              "vaccinated1": 210,
+              "vaccinated2": 533
+            },
+            "total": {
+              "confirmed": 883,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 828,
+              "tested": 5717,
+              "vaccinated1": 17497,
+              "vaccinated2": 5597
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "confirmed": 2,
+              "recovered": 6,
+              "vaccinated1": 23,
+              "vaccinated2": 77
+            },
+            "delta7": {
+              "confirmed": 13,
+              "recovered": 61,
+              "vaccinated1": 206,
+              "vaccinated2": 532
+            },
+            "total": {
+              "confirmed": 885,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 834,
+              "tested": 5717,
+              "vaccinated1": 17520,
+              "vaccinated2": 5674
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 19,
+              "vaccinated1": 79,
+              "vaccinated2": 262
+            },
+            "delta7": {
+              "confirmed": 13,
+              "recovered": 80,
+              "vaccinated1": 227,
+              "vaccinated2": 622
+            },
+            "total": {
+              "confirmed": 886,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 853,
+              "tested": 5717,
+              "vaccinated1": 17599,
+              "vaccinated2": 5936
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 6,
+              "vaccinated1": 31,
+              "vaccinated2": 91
+            },
+            "delta7": {
+              "confirmed": 14,
+              "recovered": 86,
+              "vaccinated1": 196,
+              "vaccinated2": 581
+            },
+            "total": {
+              "confirmed": 887,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 859,
+              "tested": 5717,
+              "vaccinated1": 17630,
+              "vaccinated2": 6027
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 1,
+              "vaccinated1": 9,
+              "vaccinated2": 25
+            },
+            "delta7": {
+              "confirmed": 13,
+              "recovered": 84,
+              "vaccinated1": 177,
+              "vaccinated2": 540
+            },
+            "total": {
+              "confirmed": 888,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 860,
+              "tested": 5717,
+              "vaccinated1": 17639,
+              "vaccinated2": 6052
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 1,
+              "vaccinated1": 141,
+              "vaccinated2": 94
+            },
+            "delta7": {
+              "confirmed": 8,
+              "recovered": 70,
+              "vaccinated1": 290,
+              "vaccinated2": 558
+            },
+            "total": {
+              "confirmed": 889,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 861,
+              "tested": 5717,
+              "vaccinated1": 17780,
+              "vaccinated2": 6146
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "confirmed": 2,
+              "recovered": 3,
+              "vaccinated1": 48,
+              "vaccinated2": -4
+            },
+            "delta7": {
+              "confirmed": 8,
+              "recovered": 69,
+              "vaccinated1": 331,
+              "vaccinated2": 545
+            },
+            "total": {
+              "confirmed": 891,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 864,
+              "tested": 5717,
+              "vaccinated1": 17828,
+              "vaccinated2": 6142
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "recovered": 2,
+              "vaccinated1": 10,
+              "vaccinated2": 30
+            },
+            "delta7": {
+              "confirmed": 8,
+              "recovered": 38,
+              "vaccinated1": 341,
+              "vaccinated2": 575
+            },
+            "total": {
+              "confirmed": 891,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 866,
+              "tested": 5717,
+              "vaccinated1": 17838,
+              "vaccinated2": 6172
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 3,
+              "vaccinated1": 19,
+              "vaccinated2": 207
+            },
+            "delta7": {
+              "confirmed": 7,
+              "recovered": 35,
+              "vaccinated1": 337,
+              "vaccinated2": 705
+            },
+            "total": {
+              "confirmed": 892,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 869,
+              "tested": 5717,
+              "vaccinated1": 17857,
+              "vaccinated2": 6379
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 2,
+              "vaccinated1": 25,
+              "vaccinated2": 115
+            },
+            "delta7": {
+              "confirmed": 7,
+              "recovered": 18,
+              "vaccinated1": 283,
+              "vaccinated2": 558
+            },
+            "total": {
+              "confirmed": 893,
+              "deceased": 3,
+              "other": 7,
+              "recovered": 871,
+              "tested": 5717,
+              "vaccinated1": 17882,
+              "vaccinated2": 6494
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "deceased": 1,
+              "vaccinated1": 72,
+              "vaccinated2": 165
+            },
+            "delta7": {
+              "confirmed": 6,
+              "deceased": 1,
+              "recovered": 12,
+              "vaccinated1": 324,
+              "vaccinated2": 632
+            },
+            "total": {
+              "confirmed": 893,
+              "deceased": 4,
+              "other": 7,
+              "recovered": 871,
+              "tested": 5717,
+              "vaccinated1": 17954,
+              "vaccinated2": 6659
+            }
+          },
+          "2021-08-26": {
+            "delta": {
+              "recovered": 1
+            },
+            "delta7": {
+              "confirmed": 5,
+              "deceased": 1,
+              "recovered": 12,
+              "vaccinated1": 315,
+              "vaccinated2": 607
+            },
+            "total": {
+              "confirmed": 893,
+              "deceased": 4,
+              "other": 7,
+              "recovered": 872,
+              "tested": 5717,
+              "vaccinated1": 17954,
+              "vaccinated2": 6659
+            }
           }
         }
       },
@@ -70820,6 +73298,286 @@
               "tested": 2779,
               "vaccinated1": 29279,
               "vaccinated2": 9524
+            }
+          },
+          "2021-08-14": {
+            "delta": {
+              "recovered": 6,
+              "vaccinated1": 49,
+              "vaccinated2": 88
+            },
+            "delta7": {
+              "confirmed": 3,
+              "recovered": 22,
+              "vaccinated1": 132,
+              "vaccinated2": 487
+            },
+            "total": {
+              "confirmed": 476,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 452,
+              "tested": 2779,
+              "vaccinated1": 29328,
+              "vaccinated2": 9612
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "recovered": 2,
+              "vaccinated1": 11,
+              "vaccinated2": 29
+            },
+            "delta7": {
+              "confirmed": 1,
+              "recovered": 19,
+              "vaccinated1": 118,
+              "vaccinated2": 467
+            },
+            "total": {
+              "confirmed": 476,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 454,
+              "tested": 2779,
+              "vaccinated1": 29339,
+              "vaccinated2": 9641
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "recovered": 4,
+              "vaccinated1": 27,
+              "vaccinated2": 126
+            },
+            "delta7": {
+              "confirmed": 1,
+              "recovered": 23,
+              "vaccinated1": 113,
+              "vaccinated2": 422
+            },
+            "total": {
+              "confirmed": 476,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 458,
+              "tested": 2779,
+              "vaccinated1": 29366,
+              "vaccinated2": 9767
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "recovered": -2,
+              "vaccinated1": 19,
+              "vaccinated2": 140
+            },
+            "delta7": {
+              "recovered": 12,
+              "vaccinated1": 122,
+              "vaccinated2": 461
+            },
+            "total": {
+              "confirmed": 476,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 456,
+              "tested": 2779,
+              "vaccinated1": 29385,
+              "vaccinated2": 9907
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "confirmed": 2,
+              "vaccinated1": 29,
+              "vaccinated2": 164
+            },
+            "delta7": {
+              "confirmed": 2,
+              "recovered": 12,
+              "vaccinated1": 152,
+              "vaccinated2": 593
+            },
+            "total": {
+              "confirmed": 478,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 456,
+              "tested": 2779,
+              "vaccinated1": 29414,
+              "vaccinated2": 10071
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "confirmed": 3,
+              "recovered": 1,
+              "vaccinated1": 8,
+              "vaccinated2": 70
+            },
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 11,
+              "vaccinated1": 155,
+              "vaccinated2": 631
+            },
+            "total": {
+              "confirmed": 481,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 457,
+              "tested": 2779,
+              "vaccinated1": 29422,
+              "vaccinated2": 10141
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "confirmed": 3,
+              "vaccinated1": 2,
+              "vaccinated2": 33
+            },
+            "delta7": {
+              "confirmed": 8,
+              "recovered": 11,
+              "vaccinated1": 145,
+              "vaccinated2": 650
+            },
+            "total": {
+              "confirmed": 484,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 457,
+              "tested": 2779,
+              "vaccinated1": 29424,
+              "vaccinated2": 10174
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "confirmed": 3,
+              "vaccinated1": 5,
+              "vaccinated2": 7
+            },
+            "delta7": {
+              "confirmed": 11,
+              "recovered": 5,
+              "vaccinated1": 101,
+              "vaccinated2": 569
+            },
+            "total": {
+              "confirmed": 487,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 457,
+              "tested": 2779,
+              "vaccinated1": 29429,
+              "vaccinated2": 10181
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "confirmed": 1
+            },
+            "delta7": {
+              "confirmed": 12,
+              "recovered": 3,
+              "vaccinated1": 90,
+              "vaccinated2": 540
+            },
+            "total": {
+              "confirmed": 488,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 457,
+              "tested": 2779,
+              "vaccinated1": 29429,
+              "vaccinated2": 10181
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 32,
+              "vaccinated2": 108
+            },
+            "delta7": {
+              "confirmed": 13,
+              "recovered": -1,
+              "vaccinated1": 95,
+              "vaccinated2": 522
+            },
+            "total": {
+              "confirmed": 489,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 457,
+              "tested": 2779,
+              "vaccinated1": 29461,
+              "vaccinated2": 10289
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "confirmed": 3,
+              "vaccinated1": 44,
+              "vaccinated2": 145
+            },
+            "delta7": {
+              "confirmed": 16,
+              "recovered": 1,
+              "vaccinated1": 120,
+              "vaccinated2": 527
+            },
+            "total": {
+              "confirmed": 492,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 457,
+              "tested": 2779,
+              "vaccinated1": 29505,
+              "vaccinated2": 10434
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "vaccinated1": 8,
+              "vaccinated2": 176
+            },
+            "delta7": {
+              "confirmed": 14,
+              "recovered": 1,
+              "vaccinated1": 99,
+              "vaccinated2": 539
+            },
+            "total": {
+              "confirmed": 492,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 457,
+              "tested": 2779,
+              "vaccinated1": 29513,
+              "vaccinated2": 10610
+            }
+          },
+          "2021-08-26": {
+            "delta": {
+              "confirmed": 3
+            },
+            "delta7": {
+              "confirmed": 14,
+              "vaccinated1": 91,
+              "vaccinated2": 469
+            },
+            "total": {
+              "confirmed": 495,
+              "deceased": 17,
+              "other": 2,
+              "recovered": 457,
+              "tested": 2779,
+              "vaccinated1": 29513,
+              "vaccinated2": 10610
             }
           }
         }
@@ -77940,6 +80698,271 @@
               "tested": 4887,
               "vaccinated1": 34634,
               "vaccinated2": 9496
+            }
+          },
+          "2021-08-14": {
+            "delta": {
+              "recovered": 36
+            },
+            "delta7": {
+              "confirmed": 33,
+              "deceased": 1,
+              "recovered": 51,
+              "vaccinated1": 111,
+              "vaccinated2": 409
+            },
+            "total": {
+              "confirmed": 993,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 942,
+              "tested": 4887,
+              "vaccinated1": 34634,
+              "vaccinated2": 9496
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "vaccinated1": 8,
+              "vaccinated2": 27
+            },
+            "delta7": {
+              "confirmed": 27,
+              "deceased": 1,
+              "recovered": 44,
+              "vaccinated1": 119,
+              "vaccinated2": 436
+            },
+            "total": {
+              "confirmed": 993,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 942,
+              "tested": 4887,
+              "vaccinated1": 34642,
+              "vaccinated2": 9523
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "recovered": 2,
+              "vaccinated1": 87,
+              "vaccinated2": 274
+            },
+            "delta7": {
+              "confirmed": 16,
+              "deceased": 1,
+              "recovered": 46,
+              "vaccinated1": 187,
+              "vaccinated2": 628
+            },
+            "total": {
+              "confirmed": 993,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 944,
+              "tested": 4887,
+              "vaccinated1": 34729,
+              "vaccinated2": 9797
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "recovered": 11,
+              "vaccinated1": 54,
+              "vaccinated2": 294
+            },
+            "delta7": {
+              "confirmed": 10,
+              "deceased": 1,
+              "recovered": 54,
+              "vaccinated1": 212,
+              "vaccinated2": 776
+            },
+            "total": {
+              "confirmed": 993,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 955,
+              "tested": 4887,
+              "vaccinated1": 34783,
+              "vaccinated2": 10091
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 8,
+              "vaccinated1": 2,
+              "vaccinated2": 15
+            },
+            "delta7": {
+              "confirmed": 9,
+              "recovered": 59,
+              "vaccinated1": 213,
+              "vaccinated2": 791
+            },
+            "total": {
+              "confirmed": 994,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 963,
+              "tested": 4887,
+              "vaccinated1": 34785,
+              "vaccinated2": 10106
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "recovered": 2,
+              "vaccinated1": 1,
+              "vaccinated2": 40
+            },
+            "delta7": {
+              "confirmed": 9,
+              "recovered": 61,
+              "vaccinated1": 194,
+              "vaccinated2": 827
+            },
+            "total": {
+              "confirmed": 994,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 965,
+              "tested": 4887,
+              "vaccinated1": 34786,
+              "vaccinated2": 10146
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "confirmed": 4,
+              "recovered": 3,
+              "vaccinated1": 4,
+              "vaccinated2": 21
+            },
+            "delta7": {
+              "confirmed": 5,
+              "recovered": 62,
+              "vaccinated1": 156,
+              "vaccinated2": 671
+            },
+            "total": {
+              "confirmed": 998,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 968,
+              "tested": 4887,
+              "vaccinated1": 34790,
+              "vaccinated2": 10167
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 9,
+              "vaccinated1": 9,
+              "vaccinated2": 30
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 35,
+              "vaccinated1": 165,
+              "vaccinated2": 701
+            },
+            "total": {
+              "confirmed": 999,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 977,
+              "tested": 4887,
+              "vaccinated1": 34799,
+              "vaccinated2": 10197
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "vaccinated1": 1,
+              "vaccinated2": 154
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 35,
+              "vaccinated1": 158,
+              "vaccinated2": 828
+            },
+            "total": {
+              "confirmed": 999,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 977,
+              "tested": 4887,
+              "vaccinated1": 34800,
+              "vaccinated2": 10351
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 39,
+              "vaccinated2": 334
+            },
+            "delta7": {
+              "confirmed": 7,
+              "recovered": 33,
+              "vaccinated1": 110,
+              "vaccinated2": 888
+            },
+            "total": {
+              "confirmed": 1000,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 977,
+              "tested": 4887,
+              "vaccinated1": 34839,
+              "vaccinated2": 10685
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "recovered": 1,
+              "vaccinated1": 37,
+              "vaccinated2": 268
+            },
+            "delta7": {
+              "confirmed": 7,
+              "recovered": 23,
+              "vaccinated1": 93,
+              "vaccinated2": 862
+            },
+            "total": {
+              "confirmed": 1000,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 978,
+              "tested": 4887,
+              "vaccinated1": 34876,
+              "vaccinated2": 10953
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "vaccinated2": 45
+            },
+            "delta7": {
+              "confirmed": 6,
+              "recovered": 15,
+              "vaccinated1": 91,
+              "vaccinated2": 892
+            },
+            "total": {
+              "confirmed": 1000,
+              "deceased": 11,
+              "other": 3,
+              "recovered": 978,
+              "tested": 4887,
+              "vaccinated1": 34876,
+              "vaccinated2": 10998
             }
           }
         }
@@ -85184,6 +88207,276 @@
               "vaccinated1": 32634,
               "vaccinated2": 12015
             }
+          },
+          "2021-08-14": {
+            "delta": {
+              "confirmed": 1,
+              "other": 1,
+              "recovered": 2
+            },
+            "delta7": {
+              "confirmed": 23,
+              "other": 1,
+              "recovered": 4,
+              "vaccinated1": 466,
+              "vaccinated2": 597
+            },
+            "total": {
+              "confirmed": 334,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 269,
+              "tested": 1390,
+              "vaccinated1": 32634,
+              "vaccinated2": 12015
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "confirmed": 2
+            },
+            "delta7": {
+              "confirmed": 24,
+              "other": 1,
+              "recovered": 4,
+              "vaccinated1": 395,
+              "vaccinated2": 574
+            },
+            "total": {
+              "confirmed": 336,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 269,
+              "tested": 1390,
+              "vaccinated1": 32634,
+              "vaccinated2": 12015
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "vaccinated1": 16,
+              "vaccinated2": 188
+            },
+            "delta7": {
+              "confirmed": 20,
+              "other": 1,
+              "recovered": 4,
+              "vaccinated1": 263,
+              "vaccinated2": 632
+            },
+            "total": {
+              "confirmed": 336,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 269,
+              "tested": 1390,
+              "vaccinated1": 32650,
+              "vaccinated2": 12203
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 17,
+              "vaccinated1": 67,
+              "vaccinated2": 355
+            },
+            "delta7": {
+              "confirmed": 16,
+              "other": 1,
+              "recovered": 21,
+              "vaccinated1": 186,
+              "vaccinated2": 745
+            },
+            "total": {
+              "confirmed": 337,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 286,
+              "tested": 1390,
+              "vaccinated1": 32717,
+              "vaccinated2": 12558
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "confirmed": 3,
+              "recovered": 5,
+              "vaccinated1": 44,
+              "vaccinated2": 142
+            },
+            "delta7": {
+              "confirmed": 14,
+              "other": 1,
+              "recovered": 26,
+              "vaccinated1": 153,
+              "vaccinated2": 783
+            },
+            "total": {
+              "confirmed": 340,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 291,
+              "tested": 1390,
+              "vaccinated1": 32761,
+              "vaccinated2": 12700
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 32,
+              "vaccinated2": 78
+            },
+            "delta7": {
+              "confirmed": 14,
+              "other": 1,
+              "recovered": 25,
+              "vaccinated1": 169,
+              "vaccinated2": 803
+            },
+            "total": {
+              "confirmed": 341,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 291,
+              "tested": 1390,
+              "vaccinated1": 32793,
+              "vaccinated2": 12778
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 99,
+              "vaccinated2": 61
+            },
+            "delta7": {
+              "confirmed": 9,
+              "other": 1,
+              "recovered": 24,
+              "vaccinated1": 258,
+              "vaccinated2": 824
+            },
+            "total": {
+              "confirmed": 342,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 291,
+              "tested": 1390,
+              "vaccinated1": 32892,
+              "vaccinated2": 12839
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 5,
+              "vaccinated1": 41,
+              "vaccinated2": 13
+            },
+            "delta7": {
+              "confirmed": 9,
+              "recovered": 27,
+              "vaccinated1": 299,
+              "vaccinated2": 837
+            },
+            "total": {
+              "confirmed": 343,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 296,
+              "tested": 1390,
+              "vaccinated1": 32933,
+              "vaccinated2": 12852
+            }
+          },
+          "2021-08-22": {
+            "delta": {
+              "vaccinated1": 17,
+              "vaccinated2": 6
+            },
+            "delta7": {
+              "confirmed": 7,
+              "recovered": 27,
+              "vaccinated1": 316,
+              "vaccinated2": 843
+            },
+            "total": {
+              "confirmed": 343,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 296,
+              "tested": 1390,
+              "vaccinated1": 32950,
+              "vaccinated2": 12858
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "confirmed": 3,
+              "recovered": 1,
+              "vaccinated1": 63,
+              "vaccinated2": 228
+            },
+            "delta7": {
+              "confirmed": 10,
+              "recovered": 28,
+              "vaccinated1": 363,
+              "vaccinated2": 883
+            },
+            "total": {
+              "confirmed": 346,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 297,
+              "tested": 1390,
+              "vaccinated1": 33013,
+              "vaccinated2": 13086
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "vaccinated1": 117,
+              "vaccinated2": 163
+            },
+            "delta7": {
+              "confirmed": 9,
+              "recovered": 11,
+              "vaccinated1": 413,
+              "vaccinated2": 691
+            },
+            "total": {
+              "confirmed": 346,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 297,
+              "tested": 1390,
+              "vaccinated1": 33130,
+              "vaccinated2": 13249
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 94,
+              "vaccinated2": 139
+            },
+            "delta7": {
+              "confirmed": 7,
+              "recovered": 6,
+              "vaccinated1": 463,
+              "vaccinated2": 688
+            },
+            "total": {
+              "confirmed": 347,
+              "deceased": 11,
+              "other": 12,
+              "recovered": 297,
+              "tested": 1390,
+              "vaccinated1": 33224,
+              "vaccinated2": 13388
+            }
           }
         }
       },
@@ -91665,6 +94958,280 @@
               "tested": 2131,
               "vaccinated1": 35926,
               "vaccinated2": 7946
+            }
+          },
+          "2021-08-14": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 18,
+              "vaccinated2": 4
+            },
+            "delta7": {
+              "confirmed": 27,
+              "vaccinated1": 189,
+              "vaccinated2": 243
+            },
+            "total": {
+              "confirmed": 583,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 488,
+              "tested": 2131,
+              "vaccinated1": 35944,
+              "vaccinated2": 7950
+            }
+          },
+          "2021-08-15": {
+            "delta": {
+              "confirmed": 2,
+              "vaccinated1": 28,
+              "vaccinated2": 21
+            },
+            "delta7": {
+              "confirmed": 27,
+              "vaccinated1": 217,
+              "vaccinated2": 264
+            },
+            "total": {
+              "confirmed": 585,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 488,
+              "tested": 2131,
+              "vaccinated1": 35972,
+              "vaccinated2": 7971
+            }
+          },
+          "2021-08-16": {
+            "delta": {
+              "recovered": 28,
+              "vaccinated1": 29,
+              "vaccinated2": 35
+            },
+            "delta7": {
+              "confirmed": 14,
+              "recovered": 28,
+              "vaccinated1": 175,
+              "vaccinated2": 222
+            },
+            "total": {
+              "confirmed": 585,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 516,
+              "tested": 2131,
+              "vaccinated1": 36001,
+              "vaccinated2": 8006
+            }
+          },
+          "2021-08-17": {
+            "delta": {
+              "vaccinated1": 18,
+              "vaccinated2": 104
+            },
+            "delta7": {
+              "confirmed": 11,
+              "recovered": 28,
+              "vaccinated1": 138,
+              "vaccinated2": 260
+            },
+            "total": {
+              "confirmed": 585,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 516,
+              "tested": 2131,
+              "vaccinated1": 36019,
+              "vaccinated2": 8110
+            }
+          },
+          "2021-08-18": {
+            "delta": {
+              "vaccinated1": 14,
+              "vaccinated2": 23
+            },
+            "delta7": {
+              "confirmed": 8,
+              "recovered": 28,
+              "vaccinated1": 143,
+              "vaccinated2": 279
+            },
+            "total": {
+              "confirmed": 585,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 516,
+              "tested": 2131,
+              "vaccinated1": 36033,
+              "vaccinated2": 8133
+            }
+          },
+          "2021-08-19": {
+            "delta": {
+              "recovered": 5,
+              "vaccinated1": 9,
+              "vaccinated2": 6
+            },
+            "delta7": {
+              "confirmed": 7,
+              "recovered": 33,
+              "vaccinated1": 149,
+              "vaccinated2": 277
+            },
+            "total": {
+              "confirmed": 585,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 521,
+              "tested": 2131,
+              "vaccinated1": 36042,
+              "vaccinated2": 8139
+            }
+          },
+          "2021-08-20": {
+            "delta": {
+              "vaccinated1": 24,
+              "vaccinated2": 68
+            },
+            "delta7": {
+              "confirmed": 3,
+              "recovered": 33,
+              "vaccinated1": 140,
+              "vaccinated2": 261
+            },
+            "total": {
+              "confirmed": 585,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 521,
+              "tested": 2131,
+              "vaccinated1": 36066,
+              "vaccinated2": 8207
+            }
+          },
+          "2021-08-21": {
+            "delta": {
+              "vaccinated1": 12,
+              "vaccinated2": 94
+            },
+            "delta7": {
+              "confirmed": 2,
+              "recovered": 33,
+              "vaccinated1": 134,
+              "vaccinated2": 351
+            },
+            "total": {
+              "confirmed": 585,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 521,
+              "tested": 2131,
+              "vaccinated1": 36078,
+              "vaccinated2": 8301
+            }
+          },
+          "2021-08-22": {
+            "delta7": {
+              "recovered": 33,
+              "vaccinated1": 106,
+              "vaccinated2": 330
+            },
+            "total": {
+              "confirmed": 585,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 521,
+              "tested": 2131,
+              "vaccinated1": 36078,
+              "vaccinated2": 8301
+            }
+          },
+          "2021-08-23": {
+            "delta": {
+              "confirmed": 2,
+              "recovered": 23,
+              "vaccinated1": 41,
+              "vaccinated2": 111
+            },
+            "delta7": {
+              "confirmed": 2,
+              "recovered": 28,
+              "vaccinated1": 118,
+              "vaccinated2": 406
+            },
+            "total": {
+              "confirmed": 587,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 544,
+              "tested": 2131,
+              "vaccinated1": 36119,
+              "vaccinated2": 8412
+            }
+          },
+          "2021-08-24": {
+            "delta": {
+              "recovered": 4,
+              "vaccinated1": 34,
+              "vaccinated2": 99
+            },
+            "delta7": {
+              "confirmed": 2,
+              "recovered": 32,
+              "vaccinated1": 134,
+              "vaccinated2": 401
+            },
+            "total": {
+              "confirmed": 587,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 548,
+              "tested": 2131,
+              "vaccinated1": 36153,
+              "vaccinated2": 8511
+            }
+          },
+          "2021-08-25": {
+            "delta": {
+              "confirmed": 1,
+              "vaccinated1": 12,
+              "vaccinated2": 7
+            },
+            "delta7": {
+              "confirmed": 3,
+              "recovered": 32,
+              "vaccinated1": 132,
+              "vaccinated2": 385
+            },
+            "total": {
+              "confirmed": 588,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 548,
+              "tested": 2131,
+              "vaccinated1": 36165,
+              "vaccinated2": 8518
+            }
+          },
+          "2021-08-26": {
+            "delta": {
+              "confirmed": 17,
+              "recovered": 4
+            },
+            "delta7": {
+              "confirmed": 20,
+              "recovered": 31,
+              "vaccinated1": 123,
+              "vaccinated2": 379
+            },
+            "total": {
+              "confirmed": 605,
+              "deceased": 14,
+              "other": 9,
+              "recovered": 552,
+              "tested": 2131,
+              "vaccinated1": 36165,
+              "vaccinated2": 8518
             }
           }
         }
