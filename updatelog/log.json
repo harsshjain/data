@@ -1,9 +1,5 @@
 [
    {
-      "update": "1 recovery in Arunachal Pradesh\n",
-      "timestamp": 1628353695
-   },
-   {
       "update": "986 new cases, 1057 recoveries and 15 deaths in Assam\n120 new cases, 162 recoveries and 3 deaths in Chhattisgarh\n37 new cases and 42 recoveries in Jharkhand\n",
       "timestamp": 1628356774
    },
@@ -198,5 +194,9 @@
    {
       "update": "Andaman and Nicobar Islands:\n1 new recoveries\n\nMizoram:\n87 new recoveries\n\n",
       "timestamp": 1630089765
+   },
+   {
+      "update": "Jharkhand:\n21 new confirmed cases\n14 new recoveries\n\nUttar Pradesh:\n16 new confirmed cases\n27 new recoveries\n2 new deaths\n\n",
+      "timestamp": 1630095579
    }
 ]
