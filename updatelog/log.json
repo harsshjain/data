@@ -1,9 +1,5 @@
 [
    {
-      "update": "2050 new cases, 2458 recoveries and 18 deaths in Andhra Pradesh\n",
-      "timestamp": 1628426558
-   },
-   {
       "update": "1598 new cases, 1914 recoveries and 20 deaths in Karnataka\n540 new cases, 817 recoveries and 9 deaths in Meghalaya\n709 new cases, 426 recoveries and 5 deaths in Mizoram\n1243 new cases and 69 deaths in Odisha\n79 new cases and 112 recoveries in Puducherry\n",
       "timestamp": 1628429135
    },
@@ -198,5 +194,9 @@
    {
       "update": "Himachal Pradesh:\n209 new confirmed cases\n357 new recoveries\n6 new deaths\n\nKarnataka:\n1229 new confirmed cases\n1289 new recoveries\n13 new deaths\n\nMaharashtra:\n4831 new confirmed cases\n4455 new recoveries\n126 new deaths\n\nPunjab:\n51 new confirmed cases\n54 new recoveries\n2 new deaths\n\nTamil Nadu:\n1551 new confirmed cases\n1768 new recoveries\n21 new deaths\n\nTelangana:\n325 new confirmed cases\n424 new recoveries\n2 new deaths\n\nUttarakhand:\n19 new confirmed cases\n14 new recoveries\n\n",
       "timestamp": 1630161169
+   },
+   {
+      "update": "Haryana:\n13 new confirmed cases\n19 new recoveries\n1 new deaths\n\nOdisha:\n956 new recoveries\n\n",
+      "timestamp": 1630162169
    }
 ]
