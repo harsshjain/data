@@ -1,9 +1,5 @@
 [
    {
-      "update": "14 new cases and 15 recoveries in Rajasthan\n449 new cases, 623 recoveries and 2 deaths in Telangana\n",
-      "timestamp": 1628438066
-   },
-   {
       "update": "34 new cases and 45 recoveries in Bihar\n76 new cases, 89 recoveries and 1 death in Chhattisgarh\n1 new case in Rajasthan\n",
       "timestamp": 1628438668
    },
@@ -198,5 +194,9 @@
    {
       "update": "Assam:\n586 new confirmed cases\n675 new recoveries\n9 new deaths\n\nMizoram:\n114 new recoveries\n\nUttar Pradesh:\n26 new confirmed cases\n45 new recoveries\n11 new deaths\n\n",
       "timestamp": 1630170364
+   },
+   {
+      "update": "Lakshadweep:\n2 new confirmed cases\n6 new recoveries\n\n",
+      "timestamp": 1630176886
    }
 ]
