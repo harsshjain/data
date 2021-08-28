@@ -1,9 +1,5 @@
 [
    {
-      "update": "986 new cases, 1057 recoveries and 15 deaths in Assam\n120 new cases, 162 recoveries and 3 deaths in Chhattisgarh\n37 new cases and 42 recoveries in Jharkhand\n",
-      "timestamp": 1628356774
-   },
-   {
       "update": "386 recoveries in Mizoram\n",
       "timestamp": 1628357300
    },
@@ -198,5 +194,9 @@
    {
       "update": "Jharkhand:\n21 new confirmed cases\n14 new recoveries\n\nUttar Pradesh:\n16 new confirmed cases\n27 new recoveries\n2 new deaths\n\n",
       "timestamp": 1630095579
+   },
+   {
+      "update": "Ladakh:\n8 new confirmed cases\n7 new recoveries\n\n",
+      "timestamp": 1630126150
    }
 ]
