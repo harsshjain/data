@@ -1,9 +1,5 @@
 [
    {
-      "update": "1 recovery in Dadra and Nagar Haveli and Daman and Diu\n25 new cases and 14 recoveries in Gujarat\n5508 new cases, 4895 recoveries and 151 deaths in Maharashtra\n1463 recoveries in Odisha\n",
-      "timestamp": 1628436542
-   },
-   {
       "update": "18607 new cases, 20108 recoveries and 93 deaths in Kerala\n",
       "timestamp": 1628437527
    },
@@ -198,5 +194,9 @@
    {
       "update": "Arunachal Pradesh:\n1 new confirmed cases\n1 new recoveries\n\nDadra and Nagar Haveli and Daman and Diu:\n1 new recoveries\n\n",
       "timestamp": 1630165930
+   },
+   {
+      "update": "Chhattisgarh:\n19 new confirmed cases\n54 new recoveries\n\nDadra and Nagar Haveli and Daman and Diu:\n2 new recoveries\n\n",
+      "timestamp": 1630167981
    }
 ]
