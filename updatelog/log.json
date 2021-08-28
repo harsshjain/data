@@ -1,9 +1,5 @@
 [
    {
-      "update": "20367 new cases, 20265 recoveries and 139 deaths in Kerala\n",
-      "timestamp": 1628366837
-   },
-   {
       "update": "7 new cases and 7 recoveries in Ladakh\n",
       "timestamp": 1628406349
    },
@@ -198,5 +194,9 @@
    {
       "update": "Andhra Pradesh:\n1321 new confirmed cases\n1499 new recoveries\n19 new deaths\n\nDelhi:\n29 new confirmed cases\n48 new recoveries\n\nGoa:\n111 new confirmed cases\n92 new recoveries\n2 new deaths\n\nSikkim:\n90 new confirmed cases\n98 new recoveries\n1 new deaths\n\n",
       "timestamp": 1630158609
+   },
+   {
+      "update": "Chandigarh:\n3 new confirmed cases\n6 new recoveries\n1 new deaths\n\nJammu and Kashmir:\n166 new confirmed cases\n103 new recoveries\n1 new deaths\n\nManipur:\n275 new confirmed cases\n332 new recoveries\n5 new deaths\n\nMizoram:\n2 new confirmed cases\n518 new recoveries\n3 new deaths\n\nNagaland:\n79 new confirmed cases\n66 new recoveries\n\nRajasthan:\n11 new confirmed cases\n6 new recoveries\n\nWest Bengal:\n661 new confirmed cases\n688 new recoveries\n7 new deaths\n\n",
+      "timestamp": 1630160318
    }
 ]
