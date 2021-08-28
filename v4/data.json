@@ -530,16 +530,16 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 70,
-      "recovered": 119
+      "confirmed": 71,
+      "recovered": 120
     },
     "delta21_14": {
       "confirmed": 1384
     },
     "delta7": {
-      "confirmed": 665,
+      "confirmed": 666,
       "deceased": 3,
-      "recovered": 981,
+      "recovered": 982,
       "tested": 20146,
       "vaccinated1": 8733,
       "vaccinated2": 13904
@@ -798,12 +798,16 @@
         }
       },
       "Longding": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "delta21_14": {
           "confirmed": 7
         },
         "delta7": {
-          "confirmed": 2,
-          "recovered": 5,
+          "confirmed": 3,
+          "recovered": 6,
           "vaccinated1": 64,
           "vaccinated2": 115
         },
@@ -814,9 +818,9 @@
           }
         },
         "total": {
-          "confirmed": 735,
+          "confirmed": 736,
           "deceased": 2,
-          "recovered": 731,
+          "recovered": 732,
           "tested": 10342,
           "vaccinated1": 18145,
           "vaccinated2": 3670
@@ -1253,7 +1257,7 @@
     },
     "meta": {
       "date": "2021-08-28",
-      "last_updated": "2021-08-28T21:06:42+05:30",
+      "last_updated": "2021-08-28T21:20:43+05:30",
       "notes": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "population": 1504000,
       "tested": {
@@ -1262,9 +1266,9 @@
       }
     },
     "total": {
-      "confirmed": 52830,
+      "confirmed": 52831,
       "deceased": 260,
-      "recovered": 51507,
+      "recovered": 51508,
       "tested": 1047648,
       "vaccinated1": 718289,
       "vaccinated2": 225272
@@ -16420,26 +16424,26 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 13137,
+      "confirmed": 13138,
       "deceased": 284,
       "other": 3,
-      "recovered": 13424
+      "recovered": 13425
     },
     "delta21_14": {
       "confirmed": 258407
     },
     "delta7": {
-      "confirmed": 238726,
+      "confirmed": 238727,
       "deceased": 3288,
       "other": 40,
-      "recovered": 229744,
+      "recovered": 229745,
       "tested": 10631363,
       "vaccinated1": 30121049,
       "vaccinated2": 11378708
     },
     "meta": {
       "date": "2021-08-28",
-      "last_updated": "2021-08-28T21:06:42+05:30",
+      "last_updated": "2021-08-28T21:20:43+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2021-08-27",
@@ -16447,10 +16451,10 @@
       }
     },
     "total": {
-      "confirmed": 32662275,
+      "confirmed": 32662276,
       "deceased": 437687,
       "other": 12776,
-      "recovered": 31858744,
+      "recovered": 31858745,
       "tested": 516887602,
       "vaccinated1": 480876699,
       "vaccinated2": 142112435
