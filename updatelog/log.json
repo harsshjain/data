@@ -1,9 +1,5 @@
 [
    {
-      "update": "386 recoveries in Mizoram\n",
-      "timestamp": 1628357300
-   },
-   {
       "update": "2 recoveries in Dadra and Nagar Haveli and Daman and Diu\n13 new cases and 15 recoveries in Madhya Pradesh\n",
       "timestamp": 1628359654
    },
@@ -198,5 +194,9 @@
    {
       "update": "Ladakh:\n8 new confirmed cases\n7 new recoveries\n\n",
       "timestamp": 1630126150
+   },
+   {
+      "update": "Mizoram:\n886 new confirmed cases\n\nOdisha:\n779 new confirmed cases\n68 new deaths\n\nPuducherry:\n67 new confirmed cases\n136 new recoveries\n1 new deaths\n\nTripura:\n74 new confirmed cases\n133 new recoveries\n1 new deaths\n\n",
+      "timestamp": 1630133802
    }
 ]
