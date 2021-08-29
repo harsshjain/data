@@ -1,9 +1,5 @@
 [
    {
-      "update": "19 new cases and 17 recoveries in Gujarat\n8 new cases, 7 recoveries and 1 death in Lakshadweep\n1475 recoveries in Odisha\n",
-      "timestamp": 1628522825
-   },
-   {
       "update": "10 new cases and 9 recoveries in Madhya Pradesh\n467 new cases, 1405 recoveries and 7 deaths in Manipur\n",
       "timestamp": 1628527290
    },
@@ -198,5 +194,9 @@
    {
       "update": "Arunachal Pradesh:\n39 new confirmed cases\n136 new recoveries\n\nBihar:\n11 new confirmed cases\n10 new recoveries\n\nMaharashtra:\n4666 new confirmed cases\n3510 new recoveries\n131 new deaths\n\n",
       "timestamp": 1630251566
+   },
+   {
+      "update": "Chhattisgarh:\n19 new confirmed cases\n49 new recoveries\n\nOdisha:\n834 new recoveries\n\n",
+      "timestamp": 1630254333
    }
 ]
