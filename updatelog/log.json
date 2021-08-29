@@ -1,9 +1,5 @@
 [
    {
-      "update": "2 recoveries in Andaman and Nicobar Islands\n6 new cases and 4 recoveries in Chandigarh\n4505 new cases, 7568 recoveries and 68 deaths in Maharashtra\n81 new cases and 60 recoveries in Nagaland\n453 new cases, 614 recoveries and 3 deaths in Telangana\n",
-      "timestamp": 1628519754
-   },
-   {
       "update": "19 new cases and 17 recoveries in Gujarat\n8 new cases, 7 recoveries and 1 death in Lakshadweep\n1475 recoveries in Odisha\n",
       "timestamp": 1628522825
    },
@@ -198,5 +194,9 @@
    {
       "update": "Gujarat:\n12 new confirmed cases\n12 new recoveries\n\nPunjab:\n37 new confirmed cases\n47 new recoveries\n3 new deaths\n\n",
       "timestamp": 1630250349
+   },
+   {
+      "update": "Arunachal Pradesh:\n39 new confirmed cases\n136 new recoveries\n\nBihar:\n11 new confirmed cases\n10 new recoveries\n\nMaharashtra:\n4666 new confirmed cases\n3510 new recoveries\n131 new deaths\n\n",
+      "timestamp": 1630251566
    }
 ]
