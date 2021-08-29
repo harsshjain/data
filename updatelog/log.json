@@ -1,9 +1,5 @@
 [
    {
-      "update": "10 new cases and 9 recoveries in Madhya Pradesh\n467 new cases, 1405 recoveries and 7 deaths in Manipur\n",
-      "timestamp": 1628527290
-   },
-   {
       "update": "13049 new cases, 20004 recoveries and 105 deaths in Kerala\n",
       "timestamp": 1628535390
    },
@@ -198,5 +194,9 @@
    {
       "update": "Chhattisgarh:\n19 new confirmed cases\n49 new recoveries\n\nOdisha:\n834 new recoveries\n\n",
       "timestamp": 1630254333
+   },
+   {
+      "update": "Madhya Pradesh:\n12 new confirmed cases\n11 new recoveries\n\n",
+      "timestamp": 1630259379
    }
 ]
