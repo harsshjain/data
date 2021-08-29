@@ -1,9 +1,5 @@
 [
    {
-      "update": "108 new cases, 196 recoveries and 1 death in Jammu and Kashmir\n1186 new cases, 1776 recoveries and 24 deaths in Karnataka\n",
-      "timestamp": 1628516060
-   },
-   {
       "update": "285 new cases, 151 recoveries and 1 death in Himachal Pradesh\n13 new cases and 34 recoveries in Rajasthan\n31 new cases, 47 recoveries and 1 death in Uttarakhand\n",
       "timestamp": 1628517651
    },
@@ -198,5 +194,9 @@
    {
       "update": "Kerala:\n29836 new confirmed cases\n22088 new recoveries\n75 new deaths\n\nManipur:\n387 new confirmed cases\n419 new recoveries\n4 new deaths\n\nTamil Nadu:\n1538 new confirmed cases\n1753 new recoveries\n22 new deaths\n\nTelangana:\n257 new confirmed cases\n409 new recoveries\n1 new deaths\n\nUttarakhand:\n16 new confirmed cases\n7 new recoveries\n\n",
       "timestamp": 1630246596
+   },
+   {
+      "update": "Assam:\n293 new confirmed cases\n674 new recoveries\n4 new deaths\n\nDelhi:\n31 new confirmed cases\n32 new recoveries\n\nHaryana:\n11 new confirmed cases\n21 new recoveries\n1 new deaths\n\nJammu and Kashmir:\n169 new confirmed cases\n103 new recoveries\n1 new deaths\n\nRajasthan:\n7 new confirmed cases\n\n",
+      "timestamp": 1630247521
    }
 ]
