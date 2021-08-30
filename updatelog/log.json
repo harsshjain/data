@@ -1,9 +1,5 @@
 [
    {
-      "update": "8 new cases and 4 recoveries in Chandigarh\n23 new cases, 21 recoveries and 2 deaths in Haryana\n",
-      "timestamp": 1628605859
-   },
-   {
       "update": "2 new cases in Andaman and Nicobar Islands\n233 new cases, 301 recoveries and 2 deaths in Arunachal Pradesh\n929 new cases, 964 recoveries and 16 deaths in Assam\n44 new cases and 49 recoveries in Bihar\n112 new cases, 185 recoveries and 4 deaths in Chhattisgarh\n21 new cases and 24 recoveries in Gujarat\n102 new cases and 117 recoveries in Nagaland\n59 new cases, 38 recoveries and 2 deaths in Punjab\n11 new cases and 30 recoveries in Rajasthan\n1893 new cases, 1930 recoveries and 27 deaths in Tamil Nadu\n494 new cases, 621 recoveries and 3 deaths in Telangana\n19 new cases, 43 recoveries and 1 death in Uttar Pradesh\n",
       "timestamp": 1628649444
    },
@@ -198,5 +194,9 @@
    {
       "update": "Meghalaya:\n134 new confirmed cases\n260 new recoveries\n1 new deaths\n\n",
       "timestamp": 1630322196
+   },
+   {
+      "update": "Mizoram:\n440 new confirmed cases\n1 new deaths\n\nOdisha:\n609 new confirmed cases\n67 new deaths\n\nPuducherry:\n63 new confirmed cases\n88 new recoveries\n\nTripura:\n37 new confirmed cases\n73 new recoveries\n1 new deaths\n\n",
+      "timestamp": 1630323102
    }
 ]
