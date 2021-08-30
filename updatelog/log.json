@@ -1,9 +1,5 @@
 [
    {
-      "update": "Andaman and Nicobar Islands:\n12 new confirmed cases\n12 new recoveries\n\nAndhra Pradesh:\n17074 new confirmed cases\n21229 new recoveries\n163 new deaths\n\nArunachal Pradesh:\n1495 new confirmed cases\n2626 new recoveries\n8 new deaths\n\nAssam:\n8207 new confirmed cases\n10280 new recoveries\n147 new deaths\n\nBihar:\n235 new confirmed cases\n391 new recoveries\n1 new deaths\n\nChandigarh:\n3053 new confirmed cases\n3055 new recoveries\n1 new deaths\n\nChhattisgarh:\n715 new confirmed cases\n1533 new recoveries\n10 new deaths\n\nDadra and Nagar Haveli and Daman and Diu:\n5 new confirmed cases\n5 new recoveries\n\nDelhi:\n607 new confirmed cases\n650 new recoveries\n12 new deaths\n\nGoa:\n1183 new confirmed cases\n1167 new recoveries\n23 new deaths\n\nGujarat:\n222 new confirmed cases\n241 new recoveries\n2 new deaths\n\nHaryana:\n239 new confirmed cases\n228 new recoveries\n15 new deaths\n\nHimachal Pradesh:\n3050 new confirmed cases\n3684 new recoveries\n38 new deaths\n\nJammu and Kashmir:\n1457 new confirmed cases\n1712 new recoveries\n9 new deaths\n\nJharkhand:\n233 new confirmed cases\n315 new recoveries\n1 new deaths\n\nKarnataka:\n17062 new confirmed cases\n20167 new recoveries\n298 new deaths\n\nKerala:\n261416 new confirmed cases\n258451 new recoveries\n1740 new deaths\n\nLadakh:\n89 new confirmed cases\n108 new recoveries\n\nLakshadweep:\n49 new confirmed cases\n54 new recoveries\n\nMadhya Pradesh:\n113 new confirmed cases\n138 new recoveries\n2 new deaths\n\nMaharashtra:\n60712 new confirmed cases\n71279 new recoveries\n2000 new deaths\n\nManipur:\n5277 new confirmed cases\n8125 new recoveries\n76 new deaths\n\nMeghalaya:\n3772 new confirmed cases\n5522 new recoveries\n81 new deaths\n\nMizoram:\n7380 new confirmed cases\n11242 new recoveries\n28 new deaths\n\nNagaland:\n742 new confirmed cases\n1193 new recoveries\n18 new deaths\n\nOdisha:\n11684 new confirmed cases\n12855 new recoveries\n871 new deaths\n\nPuducherry:\n1049 new confirmed cases\n1220 new recoveries\n6 new deaths\n\nPunjab:\n574 new confirmed cases\n707 new recoveries\n28 new deaths\n\nRajasthan:\n140 new confirmed cases\n238 new recoveries\n\nSikkim:\n1172 new confirmed cases\n2099 new recoveries\n7 new deaths\n\nTamil Nadu:\n22237 new confirmed cases\n24227 new recoveries\n352 new deaths\n\nTelangana:\n4740 new confirmed cases\n6279 new recoveries\n27 new deaths\n\nTripura:\n1518 new confirmed cases\n2289 new recoveries\n18 new deaths\n\nUttar Pradesh:\n311 new confirmed cases\n430 new recoveries\n12 new deaths\n\nUttarakhand:\n290 new confirmed cases\n355 new recoveries\n7 new deaths\n\nWest Bengal:\n8349 new confirmed cases\n9165 new recoveries\n126 new deaths\n\n",
-      "timestamp": 1629996166
-   },
-   {
       "update": "Lakshadweep:\n1 new confirmed cases\n2 new recoveries\n\nMizoram:\n159 new recoveries\n\n",
       "timestamp": 1629997751
    },
@@ -198,5 +194,9 @@
    {
       "update": "Andaman and Nicobar Islands:\n1 new confirmed cases\n1 new recoveries\n\nHaryana:\n10 new confirmed cases\n16 new recoveries\n1 new deaths\n\nJammu and Kashmir:\n105 new confirmed cases\n117 new recoveries\n\n",
       "timestamp": 1630333045
+   },
+   {
+      "update": "Manipur:\n223 new confirmed cases\n269 new recoveries\n2 new deaths\n\n",
+      "timestamp": 1630333896
    }
 ]
