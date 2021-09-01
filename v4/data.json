@@ -12345,6 +12345,9 @@
     }
   },
   "PB": {
+    "delta": {
+      "tested": 45423
+    },
     "delta21_14": {
       "confirmed": 382
     },
@@ -12352,7 +12355,7 @@
       "confirmed": 236,
       "deceased": 73,
       "recovered": 240,
-      "tested": 251544,
+      "tested": 296967,
       "vaccinated1": 399279,
       "vaccinated2": 157612
     },
@@ -12922,18 +12925,18 @@
     },
     "meta": {
       "date": "2021-09-01",
-      "last_updated": "2021-08-31T22:36:17+05:30",
+      "last_updated": "2021-09-01T22:37:35+05:30",
       "population": 29859000,
       "tested": {
-        "date": "2021-08-31",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/10700"
+        "date": "2021-09-01",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/10717"
       }
     },
     "total": {
       "confirmed": 600614,
       "deceased": 16431,
       "recovered": 583859,
-      "tested": 13383314,
+      "tested": 13428737,
       "vaccinated1": 10217165,
       "vaccinated2": 3185070
     }
