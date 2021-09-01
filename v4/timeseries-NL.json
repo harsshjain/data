@@ -11392,14 +11392,15 @@
       "2021-09-01": {
         "delta": {
           "confirmed": 74,
-          "recovered": 76
+          "recovered": 76,
+          "tested": 1942
         },
         "delta7": {
           "confirmed": 439,
           "deceased": 8,
           "other": 24,
           "recovered": 465,
-          "tested": 12487,
+          "tested": 14429,
           "vaccinated1": 3126,
           "vaccinated2": 7131
         },
@@ -11408,7 +11409,7 @@
           "deceased": 620,
           "other": 886,
           "recovered": 27838,
-          "tested": 320909,
+          "tested": 322851,
           "vaccinated1": 653333,
           "vaccinated2": 196920
         }
