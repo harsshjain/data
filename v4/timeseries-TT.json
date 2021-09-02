@@ -13644,13 +13644,13 @@
       },
       "2021-09-02": {
         "delta": {
-          "confirmed": 45618,
+          "confirmed": 45624,
           "deceased": 355,
           "other": 7,
           "recovered": 34656
         },
         "delta7": {
-          "confirmed": 300158,
+          "confirmed": 300164,
           "deceased": 3027,
           "other": 53,
           "recovered": 242096,
@@ -13659,7 +13659,7 @@
           "vaccinated2": 13867939
         },
         "total": {
-          "confirmed": 32902339,
+          "confirmed": 32902345,
           "deceased": 439916,
           "other": 12813,
           "recovered": 32056076,
