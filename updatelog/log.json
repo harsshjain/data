@@ -1,9 +1,5 @@
 [
    {
-      "update": "Mizoram:\n201 new recoveries\n\nUttarakhand:\n38 new confirmed cases\n16 new recoveries\n1 new deaths\n\n",
-      "timestamp": 1630349845
-   },
-   {
       "update": "Uttar Pradesh:\n23 new confirmed cases\n17 new recoveries\n2 new deaths\n\n",
       "timestamp": 1630351032
    },
@@ -198,5 +194,9 @@
    {
       "update": "Meghalaya:\n193 new confirmed cases\n\n",
       "timestamp": 1630665629
+   },
+   {
+      "update": "Meghalaya:\n5871 new recoveries\n1157 new deaths\n\n",
+      "timestamp": 1630672100
    }
 ]
