@@ -1,9 +1,5 @@
 [
    {
-      "update": "Andhra Pradesh:\n1115 new confirmed cases\n1265 new recoveries\n19 new deaths\n\nMizoram:\n219 new recoveries\n3 new deaths\n\n",
-      "timestamp": 1630412839
-   },
-   {
       "update": "Goa:\n105 new confirmed cases\n108 new recoveries\n3 new deaths\n\nLakshadweep:\n2 new confirmed cases\n\n",
       "timestamp": 1630417108
    },
@@ -198,5 +194,9 @@
    {
       "update": "Haryana:\n12 new confirmed cases\n12 new recoveries\n2 new deaths\n\nHimachal Pradesh:\n189 new confirmed cases\n206 new recoveries\n4 new deaths\n\nMaharashtra:\n4313 new confirmed cases\n4360 new recoveries\n92 new deaths\n\nTamil Nadu:\n1568 new confirmed cases\n1657 new recoveries\n19 new deaths\n\n",
       "timestamp": 1630679611
+   },
+   {
+      "update": "Kerala:\n29322 new confirmed cases\n22938 new recoveries\n131 new deaths\n\nMadhya Pradesh:\n18 new confirmed cases\n8 new recoveries\n\n",
+      "timestamp": 1630682457
    }
 ]
