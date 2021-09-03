@@ -1,9 +1,5 @@
 [
    {
-      "update": "Goa:\n105 new confirmed cases\n108 new recoveries\n3 new deaths\n\nLakshadweep:\n2 new confirmed cases\n\n",
-      "timestamp": 1630417108
-   },
-   {
       "update": "Kerala:\n30203 new confirmed cases\n20687 new recoveries\n115 new deaths\n\nLakshadweep:\n3 new recoveries\n\n",
       "timestamp": 1630417830
    },
@@ -198,5 +194,9 @@
    {
       "update": "Kerala:\n29322 new confirmed cases\n22938 new recoveries\n131 new deaths\n\nMadhya Pradesh:\n18 new confirmed cases\n8 new recoveries\n\n",
       "timestamp": 1630682457
+   },
+   {
+      "update": "Gujarat:\n16 new confirmed cases\n17 new recoveries\n1 new deaths\n\nPunjab:\n30 new confirmed cases\n30 new recoveries\n2 new deaths\n\n",
+      "timestamp": 1630683583
    }
 ]
