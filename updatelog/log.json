@@ -1,9 +1,5 @@
 [
    {
-      "update": "Andhra Pradesh:\n1186 new confirmed cases\n1396 new recoveries\n10 new deaths\n\n",
-      "timestamp": 1630494986
-   },
-   {
       "update": "Sikkim:\n76 new confirmed cases\n130 new recoveries\n\n",
       "timestamp": 1630496993
    },
@@ -198,5 +194,9 @@
    {
       "update": "Gujarat:\n15 new confirmed cases\n16 new recoveries\n\n",
       "timestamp": 1630768873
+   },
+   {
+      "update": "Madhya Pradesh:\n22 new confirmed cases\n9 new recoveries\n\n",
+      "timestamp": 1630769968
    }
 ]
