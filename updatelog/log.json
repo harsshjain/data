@@ -1,9 +1,5 @@
 [
    {
-      "update": "Ladakh:\n6 new confirmed cases\n5 new recoveries\n\n",
-      "timestamp": 1630612227
-   },
-   {
       "update": "Ladakh:\n4 new recoveries\n\n",
       "timestamp": 1630614010
    },
@@ -198,5 +194,9 @@
    {
       "update": "Haryana:\n16 new confirmed cases\n28 new recoveries\n2 new deaths\n\n",
       "timestamp": 1630943597
+   },
+   {
+      "update": "Assam:\n636 new confirmed cases\n556 new recoveries\n11 new deaths\n\nBihar:\n6 new confirmed cases\n15 new recoveries\n1 new deaths\n\nChhattisgarh:\n33 new confirmed cases\n46 new recoveries\n1 new deaths\n\nGujarat:\n19 new confirmed cases\n13 new recoveries\n\nLakshadweep:\n2 new recoveries\n\nPunjab:\n36 new confirmed cases\n46 new recoveries\n5 new deaths\n\nTamil Nadu:\n1556 new confirmed cases\n1564 new recoveries\n18 new deaths\n\nUttar Pradesh:\n12 new confirmed cases\n15 new recoveries\n5 new deaths\n\n",
+      "timestamp": 1630945709
    }
 ]
