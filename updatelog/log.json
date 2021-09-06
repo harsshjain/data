@@ -1,9 +1,5 @@
 [
    {
-      "update": "Haryana:\n16 new confirmed cases\n7 new recoveries\n2 new deaths\n\nKarnataka:\n1240 new confirmed cases\n1252 new recoveries\n22 new deaths\n\nKerala:\n32097 new confirmed cases\n21634 new recoveries\n188 new deaths\n\nNagaland:\n47 new confirmed cases\n66 new recoveries\n\nTamil Nadu:\n1562 new confirmed cases\n1684 new recoveries\n20 new deaths\n\nTripura:\n104 new confirmed cases\n40 new recoveries\n2 new deaths\n\n",
-      "timestamp": 1630592302
-   },
-   {
       "update": "Andaman and Nicobar Islands:\n1 new confirmed cases\n\nDelhi:\n39 new confirmed cases\n38 new recoveries\n\n",
       "timestamp": 1630593189
    },
@@ -198,5 +194,9 @@
    {
       "update": "Ladakh:\n5 new confirmed cases\n7 new recoveries\n\n",
       "timestamp": 1630902231
+   },
+   {
+      "update": "Jharkhand:\n15 new confirmed cases\n16 new recoveries\n\n",
+      "timestamp": 1630914639
    }
 ]
