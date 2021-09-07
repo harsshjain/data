@@ -1,9 +1,5 @@
 [
    {
-      "update": "Meghalaya:\n5871 new recoveries\n1157 new deaths\n\n",
-      "timestamp": 1630672100
-   },
-   {
       "update": "Jammu and Kashmir:\n96 new confirmed cases\n36 new recoveries\n\nKarnataka:\n1220 new confirmed cases\n1175 new recoveries\n19 new deaths\n\nOdisha:\n835 new recoveries\n\nWest Bengal:\n686 new confirmed cases\n715 new recoveries\n11 new deaths\n\n",
       "timestamp": 1630674480
    },
@@ -198,5 +194,9 @@
    {
       "update": "Manipur:\n282 new confirmed cases\n294 new recoveries\n\nMeghalaya:\n136 new confirmed cases\n307 new recoveries\n4 new deaths\n\nMizoram:\n534 new recoveries\n1 new deaths\n\nNagaland:\n47 new confirmed cases\n50 new recoveries\n1 new deaths\n\nOdisha:\n801 new recoveries\n\nRajasthan:\n12 new confirmed cases\n18 new recoveries\n\nSikkim:\n74 new confirmed cases\n127 new recoveries\n1 new deaths\n\nWest Bengal:\n601 new confirmed cases\n687 new recoveries\n7 new deaths\n\n",
       "timestamp": 1631021836
+   },
+   {
+      "update": "Andhra Pradesh:\n1178 new confirmed cases\n1230 new recoveries\n10 new deaths\n\nDelhi:\n50 new confirmed cases\n30 new recoveries\n1 new deaths\n\nGoa:\n74 new confirmed cases\n105 new recoveries\n\nKarnataka:\n851 new confirmed cases\n790 new recoveries\n15 new deaths\n\nMaharashtra:\n3898 new confirmed cases\n3581 new recoveries\n86 new deaths\n\n",
+      "timestamp": 1631022642
    }
 ]
