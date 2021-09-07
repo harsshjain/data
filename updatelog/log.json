@@ -1,9 +1,5 @@
 [
    {
-      "update": "Andhra Pradesh:\n1520 new confirmed cases\n1290 new recoveries\n10 new deaths\n\nChandigarh:\n4 new confirmed cases\n1 new recoveries\n\nDadra and Nagar Haveli and Daman and Diu:\n1 new confirmed cases\n\nGoa:\n104 new confirmed cases\n120 new recoveries\n1 new deaths\n\n",
-      "timestamp": 1630677034
-   },
-   {
       "update": "Delhi:\n35 new confirmed cases\n17 new recoveries\n\nLakshadweep:\n3 new recoveries\n\nManipur:\n272 new confirmed cases\n323 new recoveries\n2 new deaths\n\nMizoram:\n373 new recoveries\n\nNagaland:\n40 new confirmed cases\n56 new recoveries\n16 new deaths\n\nRajasthan:\n8 new confirmed cases\n6 new recoveries\n\nSikkim:\n45 new confirmed cases\n109 new recoveries\n2 new deaths\n\nUttarakhand:\n36 new confirmed cases\n9 new recoveries\n\n",
       "timestamp": 1630678750
    },
@@ -198,5 +194,9 @@
    {
       "update": "Andhra Pradesh:\n36 new recoveries\n\nKerala:\n25772 new confirmed cases\n27320 new recoveries\n189 new deaths\n\nLakshadweep:\n5 new recoveries\n\nMadhya Pradesh:\n11 new confirmed cases\n9 new recoveries\n\nTelangana:\n298 new confirmed cases\n325 new recoveries\n2 new deaths\n\n",
       "timestamp": 1631024306
+   },
+   {
+      "update": "Uttar Pradesh:\n23 new confirmed cases\n21 new recoveries\n\nUttarakhand:\n14 new confirmed cases\n21 new recoveries\n1 new deaths\n\n",
+      "timestamp": 1631025201
    }
 ]
