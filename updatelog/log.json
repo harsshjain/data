@@ -1,9 +1,5 @@
 [
    {
-      "update": "Delhi:\n35 new confirmed cases\n17 new recoveries\n\nLakshadweep:\n3 new recoveries\n\nManipur:\n272 new confirmed cases\n323 new recoveries\n2 new deaths\n\nMizoram:\n373 new recoveries\n\nNagaland:\n40 new confirmed cases\n56 new recoveries\n16 new deaths\n\nRajasthan:\n8 new confirmed cases\n6 new recoveries\n\nSikkim:\n45 new confirmed cases\n109 new recoveries\n2 new deaths\n\nUttarakhand:\n36 new confirmed cases\n9 new recoveries\n\n",
-      "timestamp": 1630678750
-   },
-   {
       "update": "Haryana:\n12 new confirmed cases\n12 new recoveries\n2 new deaths\n\nHimachal Pradesh:\n189 new confirmed cases\n206 new recoveries\n4 new deaths\n\nMaharashtra:\n4313 new confirmed cases\n4360 new recoveries\n92 new deaths\n\nTamil Nadu:\n1568 new confirmed cases\n1657 new recoveries\n19 new deaths\n\n",
       "timestamp": 1630679611
    },
@@ -198,5 +194,9 @@
    {
       "update": "Uttar Pradesh:\n23 new confirmed cases\n21 new recoveries\n\nUttarakhand:\n14 new confirmed cases\n21 new recoveries\n1 new deaths\n\n",
       "timestamp": 1631025201
+   },
+   {
+      "update": "Himachal Pradesh:\n179 new confirmed cases\n191 new recoveries\n\nJammu and Kashmir:\n126 new confirmed cases\n148 new recoveries\n\nPunjab:\n28 new confirmed cases\n31 new recoveries\n3 new deaths\n\nTamil Nadu:\n1544 new confirmed cases\n1576 new recoveries\n19 new deaths\n\nUttar Pradesh:\n2 new deaths\n\n",
+      "timestamp": 1631026210
    }
 ]
