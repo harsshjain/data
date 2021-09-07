@@ -1,9 +1,5 @@
 [
    {
-      "update": "Andaman and Nicobar Islands:\n3 new confirmed cases\n1 new recoveries\n\nArunachal Pradesh:\n61 new confirmed cases\n96 new recoveries\n1 new deaths\n\nAssam:\n564 new confirmed cases\n828 new recoveries\n6 new deaths\n\nBihar:\n6 new confirmed cases\n16 new recoveries\n\nChhattisgarh:\n37 new confirmed cases\n40 new recoveries\n\n",
-      "timestamp": 1630688924
-   },
-   {
       "update": "Dadra and Nagar Haveli and Daman and Diu:\n1 new confirmed cases\n\n",
       "timestamp": 1630694685
    },
@@ -198,5 +194,9 @@
    {
       "update": "Arunachal Pradesh:\n66 new confirmed cases\n88 new recoveries\n1 new deaths\n\nChhattisgarh:\n56 new confirmed cases\n46 new recoveries\n\n",
       "timestamp": 1631029978
+   },
+   {
+      "update": "Assam:\n471 new confirmed cases\n420 new recoveries\n9 new deaths\n\n",
+      "timestamp": 1631032024
    }
 ]
