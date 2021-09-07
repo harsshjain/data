@@ -1,9 +1,5 @@
 [
    {
-      "update": "Jharkhand:\n11 new confirmed cases\n13 new recoveries\n\nMizoram:\n317 new recoveries\n\n",
-      "timestamp": 1630695462
-   },
-   {
       "update": "Uttar Pradesh:\n15 new confirmed cases\n21 new recoveries\n13 new deaths\n\n",
       "timestamp": 1630696624
    },
@@ -198,5 +194,9 @@
    {
       "update": "Mizoram:\n107 new recoveries\n\n",
       "timestamp": 1631034539
+   },
+   {
+      "update": "Jharkhand:\n14 new confirmed cases\n11 new recoveries\n\n",
+      "timestamp": 1631042187
    }
 ]
