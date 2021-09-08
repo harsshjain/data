@@ -1,9 +1,5 @@
 [
    {
-      "update": "Mizoram:\n701 new confirmed cases\n1 new deaths\n\n",
-      "timestamp": 1630737898
-   },
-   {
       "update": "Mizoram:\n124 new confirmed cases\n\nOdisha:\n681 new confirmed cases\n5 new deaths\n\nPuducherry:\n120 new confirmed cases\n76 new recoveries\n1 new deaths\n\nTripura:\n70 new confirmed cases\n122 new recoveries\n\n",
       "timestamp": 1630738668
    },
@@ -198,5 +194,9 @@
    {
       "update": "Meghalaya:\n191 new confirmed cases\n228 new recoveries\n4 new deaths\n\n",
       "timestamp": 1631099822
+   },
+   {
+      "update": "Andhra Pradesh:\n1361 new confirmed cases\n1288 new recoveries\n15 new deaths\n\nDadra and Nagar Haveli and Daman and Diu:\n1 new confirmed cases\n\nDelhi:\n41 new confirmed cases\n13 new recoveries\n\nGoa:\n86 new confirmed cases\n82 new recoveries\n2 new deaths\n\nJammu and Kashmir:\n151 new confirmed cases\n163 new recoveries\n1 new deaths\n\nWest Bengal:\n751 new confirmed cases\n841 new recoveries\n9 new deaths\n\n",
+      "timestamp": 1631108304
    }
 ]
