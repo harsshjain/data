@@ -13793,7 +13793,9 @@
           "deceased": 368,
           "other": -3,
           "recovered": 39101,
-          "tested": 1753745
+          "tested": 1753745,
+          "vaccinated1": 5842003,
+          "vaccinated2": 2638239
         },
         "delta7": {
           "confirmed": 284709,
@@ -13801,8 +13803,8 @@
           "other": 52,
           "recovered": 270234,
           "tested": 11758800,
-          "vaccinated1": 31384296,
-          "vaccinated2": 13564972
+          "vaccinated1": 37226299,
+          "vaccinated2": 16203211
         },
         "total": {
           "confirmed": 33095455,
@@ -13810,8 +13812,8 @@
           "other": 12846,
           "recovered": 32256563,
           "tested": 534943093,
-          "vaccinated1": 534715823,
-          "vaccinated2": 164346953
+          "vaccinated1": 540557826,
+          "vaccinated2": 166985192
         }
       }
     }

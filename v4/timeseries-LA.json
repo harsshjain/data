@@ -10749,22 +10749,24 @@
         "delta": {
           "confirmed": 5,
           "recovered": 11,
-          "tested": 1997
+          "tested": 1997,
+          "vaccinated1": 429,
+          "vaccinated2": 1696
         },
         "delta7": {
           "confirmed": 33,
           "recovered": 54,
           "tested": 11328,
-          "vaccinated1": 2018,
-          "vaccinated2": 10865
+          "vaccinated1": 2447,
+          "vaccinated2": 12561
         },
         "total": {
           "confirmed": 20593,
           "deceased": 207,
           "recovered": 20338,
           "tested": 504959,
-          "vaccinated1": 195704,
-          "vaccinated2": 112855
+          "vaccinated1": 196133,
+          "vaccinated2": 114551
         }
       }
     },
