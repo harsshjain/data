@@ -1,9 +1,5 @@
 [
    {
-      "update": "Uttar Pradesh:\n15 new confirmed cases\n21 new recoveries\n13 new deaths\n\n",
-      "timestamp": 1630696624
-   },
-   {
       "update": "Ladakh:\n3 new confirmed cases\n1 new recoveries\n\n",
       "timestamp": 1630726615
    },
@@ -198,5 +194,9 @@
    {
       "update": "Jharkhand:\n14 new confirmed cases\n11 new recoveries\n\n",
       "timestamp": 1631042187
+   },
+   {
+      "update": "Ladakh:\n5 new confirmed cases\n11 new recoveries\n\n",
+      "timestamp": 1631076561
    }
 ]
