@@ -1,9 +1,5 @@
 [
    {
-      "update": "Haryana:\n14 new confirmed cases\n22 new recoveries\n\nPunjab:\n33 new confirmed cases\n36 new recoveries\n\n",
-      "timestamp": 1630853386
-   },
-   {
       "update": "Kerala:\n26701 new confirmed cases\n28900 new recoveries\n74 new deaths\n\nMadhya Pradesh:\n22 new confirmed cases\n14 new recoveries\n\n",
       "timestamp": 1630855191
    },
@@ -198,5 +194,9 @@
    {
       "update": "Haryana:\n13 new confirmed cases\n36 new recoveries\n\nKerala:\n26200 new confirmed cases\n29209 new recoveries\n125 new deaths\n\nTamil Nadu:\n1596 new confirmed cases\n1534 new recoveries\n21 new deaths\n\n",
       "timestamp": 1631199009
+   },
+   {
+      "update": "Bihar:\n10 new confirmed cases\n2 new recoveries\n1 new deaths\n\nMadhya Pradesh:\n9 new confirmed cases\n12 new recoveries\n\n",
+      "timestamp": 1631200864
    }
 ]
