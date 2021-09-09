@@ -1,9 +1,5 @@
 [
    {
-      "update": "Ladakh:\n5 new confirmed cases\n7 new recoveries\n\n",
-      "timestamp": 1630902231
-   },
-   {
       "update": "Jharkhand:\n15 new confirmed cases\n16 new recoveries\n\n",
       "timestamp": 1630914639
    },
@@ -198,5 +194,9 @@
    {
       "update": "Maharashtra:\n55 new deaths\n\n",
       "timestamp": 1631207286
+   },
+   {
+      "update": "Assam:\n437 new confirmed cases\n524 new recoveries\n4 new deaths\n\nDelhi:\n36 new confirmed cases\n35 new recoveries\n\n",
+      "timestamp": 1631209284
    }
 ]
