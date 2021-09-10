@@ -1,9 +1,5 @@
 [
    {
-      "update": "Kerala:\n19688 new confirmed cases\n28561 new recoveries\n135 new deaths\n\n",
-      "timestamp": 1630941671
-   },
-   {
       "update": "Haryana:\n16 new confirmed cases\n28 new recoveries\n2 new deaths\n\n",
       "timestamp": 1630943597
    },
@@ -198,5 +194,9 @@
    {
       "update": "Odisha:\n745 new confirmed cases\n6 new deaths\n\nTripura:\n45 new confirmed cases\n52 new recoveries\n2 new deaths\n\n",
       "timestamp": 1631272580
+   },
+   {
+      "update": "Kerala:\n25010 new confirmed cases\n23535 new recoveries\n177 new deaths\n\n",
+      "timestamp": 1631281853
    }
 ]
