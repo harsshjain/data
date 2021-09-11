@@ -1,9 +1,5 @@
 [
    {
-      "update": "Haryana:\n17 new confirmed cases\n32 new recoveries\n\n",
-      "timestamp": 1631111624
-   },
-   {
       "update": "Himachal Pradesh:\n163 new confirmed cases\n138 new recoveries\n4 new deaths\n\nKerala:\n30196 new confirmed cases\n27579 new recoveries\n181 new deaths\n\n",
       "timestamp": 1631115731
    },
@@ -198,5 +194,9 @@
    {
       "update": "Arunachal Pradesh:\n9 new confirmed cases\n8 new recoveries\n\nJharkhand:\n7 new confirmed cases\n21 new recoveries\n\n",
       "timestamp": 1631384435
+   },
+   {
+      "update": "Sikkim:\n64 new confirmed cases\n47 new recoveries\n\n",
+      "timestamp": 1631387771
    }
 ]
