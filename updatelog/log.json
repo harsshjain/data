@@ -1,9 +1,5 @@
 [
    {
-      "update": "Andaman and Nicobar Islands:\n1 new confirmed cases\n\nBihar:\n6 new confirmed cases\n6 new recoveries\n\nChandigarh:\n2 new confirmed cases\n2 new recoveries\n1 new deaths\n\nHaryana:\n11 new confirmed cases\n5 new recoveries\n1 new deaths\n\nHimachal Pradesh:\n2 new recoveries\n5 new deaths\n\n",
-      "timestamp": 1631028061
-   },
-   {
       "update": "Gujarat:\n18 new confirmed cases\n21 new recoveries\n\n",
       "timestamp": 1631029168
    },
@@ -198,5 +194,9 @@
    {
       "update": "Odisha:\n630 new confirmed cases\n8 new deaths\n\nTripura:\n30 new confirmed cases\n92 new recoveries\n\n",
       "timestamp": 1631341336
+   },
+   {
+      "update": "Mizoram:\n725 new confirmed cases\n\nPuducherry:\n46 new confirmed cases\n126 new recoveries\n1 new deaths\n\n",
+      "timestamp": 1631342650
    }
 ]
