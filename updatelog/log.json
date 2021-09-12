@@ -1,9 +1,5 @@
 [
    {
-      "update": "Ladakh:\n9 new recoveries\n\n",
-      "timestamp": 1631165581
-   },
-   {
       "update": "Meghalaya:\n218 new confirmed cases\n134 new recoveries\n2 new deaths\n\nOdisha:\n771 new confirmed cases\n8 new deaths\n\nPuducherry:\n82 new confirmed cases\n74 new recoveries\n1 new deaths\n\nTripura:\n64 new confirmed cases\n35 new recoveries\n\n",
       "timestamp": 1631182839
    },
@@ -198,5 +194,9 @@
    {
       "update": "Dadra and Nagar Haveli and Daman and Diu:\n1 new confirmed cases\n\nHaryana:\n5 new confirmed cases\n44 new recoveries\n\nTamil Nadu:\n1607 new confirmed cases\n1512 new recoveries\n22 new deaths\n\nTelangana:\n249 new confirmed cases\n313 new recoveries\n2 new deaths\n\n",
       "timestamp": 1631457206
+   },
+   {
+      "update": "Tamil Nadu:\n1 new confirmed cases\n\n",
+      "timestamp": 1631458227
    }
 ]
