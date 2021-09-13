@@ -1,9 +1,5 @@
 [
    {
-      "update": "Odisha:\n745 new confirmed cases\n6 new deaths\n\nTripura:\n45 new confirmed cases\n52 new recoveries\n2 new deaths\n\n",
-      "timestamp": 1631272580
-   },
-   {
       "update": "Kerala:\n25010 new confirmed cases\n23535 new recoveries\n177 new deaths\n\n",
       "timestamp": 1631281853
    },
@@ -198,5 +194,9 @@
    {
       "update": "Maharashtra:\n149 new confirmed cases\n104 new recoveries\n1 new deaths\n\nPunjab:\n32 new confirmed cases\n25 new recoveries\n4 new deaths\n\nTelangana:\n315 new confirmed cases\n318 new recoveries\n2 new deaths\n\n",
       "timestamp": 1631544675
+   },
+   {
+      "update": "Andaman and Nicobar Islands:\n2 new confirmed cases\n3 new recoveries\n\nMadhya Pradesh:\n12 new confirmed cases\n19 new recoveries\n\nTamil Nadu:\n1580 new confirmed cases\n1509 new recoveries\n22 new deaths\n\nUttarakhand:\n19 new confirmed cases\n37 new recoveries\n\n",
+      "timestamp": 1631546421
    }
 ]
