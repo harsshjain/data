@@ -1,9 +1,5 @@
 [
    {
-      "update": "Maharashtra:\n55 new deaths\n\n",
-      "timestamp": 1631207286
-   },
-   {
       "update": "Assam:\n437 new confirmed cases\n524 new recoveries\n4 new deaths\n\nDelhi:\n36 new confirmed cases\n35 new recoveries\n\n",
       "timestamp": 1631209284
    },
@@ -198,5 +194,9 @@
    {
       "update": "Meghalaya:\n226 new confirmed cases\n177 new recoveries\n3 new deaths\n\nMizoram:\n541 new confirmed cases\n1 new deaths\n\nOdisha:\n471 new confirmed cases\n6 new deaths\n\nTripura:\n43 new confirmed cases\n98 new recoveries\n\n",
       "timestamp": 1631522484
+   },
+   {
+      "update": "Tripura:\n23 new confirmed cases\n62 new recoveries\n\n",
+      "timestamp": 1631524767
    }
 ]
